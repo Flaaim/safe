@@ -4,8 +4,8 @@
 			<ul>
 {% for page in site.pages %} {% if page.title %}
 <li><a href="{{ "/categories" | prepend: site.baseurl }}">{{ page.title }}</a></li>
-{% endif %} {% endfor %}
-<li><a href="{{ "/blog" | prepend: site.baseurl }}">{{ page.title }}</a></li>
+
+<li><a href="{{ "/blog" | prepend: site.baseurl }}">{{ page.title }}</a></li>{% endif %} {% endfor %}
 			</ul>
 			</li>
 			</ul>
