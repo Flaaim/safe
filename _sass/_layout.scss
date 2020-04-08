@@ -33,7 +33,7 @@ a:visited {
   
 }
 article a, 
-a:visited {$font-color;
+a:visited {color: $font-color;
    text-decoration: underline;
   
 }
