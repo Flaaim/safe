@@ -50,6 +50,11 @@ main {
   max-width: $content-width;
   margin: 0 auto;
 }
+main a {
+  color:$font-color;
+  
+}
+
 time {
   color: #898989;
 }
