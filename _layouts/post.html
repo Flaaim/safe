@@ -1,7 +1,7 @@
 --- 
 layout: default 
 ---
-
+{% for post in site.posts %}
 <h2>{{ page.title }}</h2>
  <p>{{ post.excerpt }}</p>
 <time>{{ post.date | date: "%b %-d, %Y" }}
@@ -15,5 +15,5 @@ layout: default
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}</span>
-
+{% endfor %}
 {{ content }}
