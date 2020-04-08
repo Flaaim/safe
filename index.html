@@ -4,7 +4,7 @@ layout: default
 {% for post in site.posts %}
 		
 		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-		 <p>{{ post.excerpt }}</p>
+		 <p>{{ post.excerpt }}</p><p>![My helpful screenshot](/assets/logo_image.jpg)
 <time>{{ post.date | date: "%b %-d, %Y" }}
 		<i class="fa fa-tags"></i></time>
  <span class="categories"> {% if post %}
@@ -16,7 +16,7 @@ layout: default
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}</span>
-[My helpful screenshot](/assets/logo_image.jpg)
+
 		
 {% endfor %}
 
