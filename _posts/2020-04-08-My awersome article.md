@@ -7,7 +7,7 @@ author: Flaaim
 categories: mycategorie
 
 ---
-<img src="{{ post.image }}" />
+<img src="/assets/logo_image.jpg">
 This is my awesome writeup of this fantastic thing
 
 Another text
