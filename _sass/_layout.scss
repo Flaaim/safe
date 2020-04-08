@@ -32,6 +32,11 @@ a:visited {
   text-decoration: underline;
   
 }
+article a, 
+a:visited {$font-color;
+   text-decoration: underline;
+  
+}
 a:hover {
   color: $link-hover-color;
   text-decoration: underline;
