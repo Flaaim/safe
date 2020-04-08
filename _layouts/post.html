@@ -3,6 +3,7 @@ layout: default
 ---
 
 <h2>{{ page.title }}</h2>
+<p><img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}"></p>
 <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
  
 
