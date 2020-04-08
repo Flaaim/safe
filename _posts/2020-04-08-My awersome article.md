@@ -7,6 +7,7 @@ author: Flaaim
 categories: mycategorie
 
 ---
+<img src="{{ post.image }}" />
 This is my awesome writeup of this fantastic thing
 
 Another text
