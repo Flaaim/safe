@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h2>{{ page.title }}</h2>
-{{ article.published_at | date: "%b %-d, %Y" }} 
+<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
  
 
 
