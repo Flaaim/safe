@@ -2,7 +2,7 @@
 layout: post
 title: My awersome article
 description: This is my awesome writeup of this fantastic thing
-image: logo_image.jpg
+post_image: logo_image.jpg
 author: Flaaim
 categories: mycategorie
 
