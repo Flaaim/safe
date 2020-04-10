@@ -33,7 +33,7 @@ Controls burns and are basically utilized for setting and removing hot things fr
 
 
 ## Aprons
-![PPE in Hospitality](http://safetyworkblog.com/assets/walter-otto-PT70CT6mATQ-unsplash.jpg)
+![PPE in Hospitality](http://safetyworkblog.com/assets/ebi-zandi-pJtzDjsRAxQ-unsplash.jpg)
 Not exclusively does this PPE help keep an employer's uniform clean, however, it as well gives an extra barrier between the worker's body and unsafe substances, for example, chemicals, hot oil, and grease.
 ### Anti-slip shoes 
 
@@ -44,7 +44,7 @@ To check that the tool protects the user, it ought to be made according to the s
 Other safety items that ought to be considered include: 
 
 ### Wet floor signs 
-![PPE in Hospitality](http://safetyworkblog.com/assets/walter-otto-PT70CT6mATQ-unsplash.jpg)
+![PPE in Hospitality](http://safetyworkblog.com/assets/justus-menke-caQwgmo2lro-unsplash.jpg)
 Are important for both your staff and your clients. It alerts individuals that the floor is wet, so they can stay away from these regions or take extra caution when strolling in these areas. 
 
 ### Slip-safe mats  
