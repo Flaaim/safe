@@ -12,7 +12,7 @@ Personal protective equipment also known as PPE is very important for individual
 ## The different kind of personal protective equipment includes
 
 ### Respirators
-
+![Personal protective equipment in beauty salon](http://safetyworkblog.com/assets/pexels_photo_332046.jpeg)
 This is considered as one of the most important ppe</a> that people need for their safety while working in beauty salon as it will protect you from harmful contaminants and dust from the air. Moreover the use of this equipment is also important for individuals suffering from asthma as the respirators will also protect you when you are dusty products in the saloon. This equipment is very important for protecting your lungs so that any chemicals does not make your airway tight, narrow and inflamed that is known to cause serious breathing issues. 
 
 ### Hand gloves
