@@ -50,4 +50,5 @@ Are important for both your staff and your clients. It alerts individuals that t
 ### Slip-safe mats  
 
 Perfect for kitchen floors or other high traffic places where there is a more occurrence for slips and falls (i.e. front passage/exit). These elastic mats offer better foothold as well as give a milder and more comfortable strolling surface that gives the feet, knees and different joints better assurance from strains and other comparative wounds. 
+
 Remember regardless of the personal protective restaurant equipment's you give your representatives: There ought to be the sufficient maintenance of the tool to make sure it controls the dangers. Maintenance ought to include customary inspection before each use to decide whether the tool has sustained any harm and that it will function as proposed. Where the tool is damaged, so that it may not give the vital protection, it ought to be either fixed or discarded properly and supplanted. Any wearer of the tool ought to be prepared in any limitations of the equipment and the suitable fitting of the equipment. Directions ought to be given on the right utilization of the hardware, upkeep, and storage.
