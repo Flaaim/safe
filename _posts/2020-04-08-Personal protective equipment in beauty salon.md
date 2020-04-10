@@ -8,15 +8,7 @@ categories: PPE
 
 ---
 Personal protective equipment also known as PPE is very important for individuals working in a beauty salon for their safety and health as there are many hazardous substances that are used in the saloon which can cause serious health issues. There are many beauty products that can cause ill health and also cause skin damage with prolong exposure to these products as it contains chemicals that causes health problems. Moreover the chemicals found in these products should not be inhaled and it is important to protect yourself with the right kind of ppe.
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- s-block -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:336px;height:280px"
-     data-ad-client="ca-pub-9466483815741375"
-     data-ad-slot="6668330455"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 ## The different kind of personal protective equipment includes
 
 ### Respirators
