@@ -22,7 +22,7 @@ This is a very reliable and effective way of preventing skin problems that are c
 ### Protective clothing and footwear
 
 if you are concerned about your health and safety then you will need to select the right kind of clothing so that you are not directly exposed to any kind of dangers. 
-
+![Personal protective equipment in beauty salon](http://safetyworkblog.com/assets/pexels_photo_3738377.jpeg)
 ### Eye protection
 
 the eyes are more prone to any kind of infection when it comes in contact with your contaminated hands and hence you will need to protect your eyes from the right kind of eye wear so that it will be healthy without any issues. <p>
