@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Car Painting PPE Equipment
 description: If you are a painter either professional or a DIY one, you should understand that painting like any other handiwork comes with a number of health risks.
 post_image: auto_costpaintcar_0415_passwater.webp
