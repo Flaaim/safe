@@ -12,7 +12,7 @@ Acids are the most known corrosive elements, they can cause damages to your skin
 PPE for working with acid includes safety footwear, face and eye protective equipment, skin protection, body protection as well as respiratory protection. Below we are going to discuss these:
 
 ## 1.Protective clothing and footwear for working with acids
-![PPE For Working With Acid](http://safetyworkblog.com/assets/louis-reed-JeInkKlI2Po-unsplash.jpg)
+![PPE For Working With Acid](https://safetyworkblog.com/assets/louis-reed-JeInkKlI2Po-unsplash.jpg)
 When working with acid ensure that you wear protective clothing and footwear. Putting on gloves and lab coats or overalls reduce the exposure of the body to acid. Do not try to wear open shoes or sandals when working in such conditions, you are required to put on boots that are well closed. The gloves worn should be made from rubber as well as the boots if not leather. 
 
 When choosing the PPE for working that is meant to prevent you from skin exposure and burns ensure that you consider the type of material which has been used on the particular equipment.
@@ -27,7 +27,7 @@ Acids are in liquid form thus they can easily splash to the eyes or the face thu
 Respiratory protection is mostly considered when handling fuming acids. Non-fuming gas do not need respiratory protection. In case you are working with a fuming acid ensure that the environment is well supplied with sufficient air.
 
 ## Handling Acids
-![PPE For Working With Acid](http://safetyworkblog.com/assets/red-lion-lab-tech-holding-beaker_0.jpg)
+![PPE For Working With Acid](https://safetyworkblog.com/assets/red-lion-lab-tech-holding-beaker_0.jpg)
 Different types of acids require different ways of handling. Some acids are not very corrosives, for example, the organic acids such as citric acid, tartaric acid, and acetic acid are not corrosive whereas the inorganic acids such as sulphuric acid, hydrochloric acid, and nitric acid are known to be very corrosive when they land on a person's skin. Thus you need to take different styles and considerations when handling these acids.
 
 When working with acids you should be very cautious about how you store the acid and on the containers, you store acids in. ensure that you label containers properly before storing to avoid unnecessary mistakes. Some acids are known to react vigorous with water producing flames and others react gently. To avoid confusion ensure that you label the acids to avoid causing unnecessary burns.
