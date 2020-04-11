@@ -9,7 +9,7 @@ categories: PPE
 
 If you are a painter either professional or a DIY one, you should understand that painting like any other handiwork comes with a number of health risks. It may not look like it because it involves basic items such as buckets, brushes, ladders and several others and you may not realize how a risk may come about from these items.
 
-![Car Painting PPE Equipment](http://safetyworkblog.com/assets/auto_costpaintcar_0415_passwater.webp)
+![Car Painting PPE Equipment](https://safetyworkblog.com/assets/auto_costpaintcar_0415_passwater.webp)
 
 Painting seems like a risk-free task but the truth is that it can cause serious harm to your body and of others if the right protective clothing and safety precautions are not taken into account. The major risk comes from the paint itself. Paint is made from chemicals that are harmful to human beings and in the event that it touches a person's skin or eyes there is severe irritation that can cause damage. Also, the paint fumes can cause respiratory issues and headaches to the painter and anyone else in the vicinity who is exposed to the paint.
 
@@ -17,7 +17,7 @@ Further, the products that are used alongside painting such as thinners and prim
 
 ## PPE Equipment for painting car
 
-![Car Painting PPE Equipment](http://safetyworkblog.com/assets/ppm-maskingtape-automotive-00084.i6901-kIgxVJ-w1200-f1-l1.jpg)
+![Car Painting PPE Equipment](https://safetyworkblog.com/assets/ppm-maskingtape-automotive-00084.i6901-kIgxVJ-w1200-f1-l1.jpg)
 To ensure maximum safety for you and your team you need to get the right personal protective equipment
 ### 1.  Gloves
 You should wear leather or cloth gloves for sanding and handling all the materials using your hands. They will protect your hands from handling any corrosive and harmful products. They should impermeable meaning that they cannot allow any water or liquid to pass through to your skin.
