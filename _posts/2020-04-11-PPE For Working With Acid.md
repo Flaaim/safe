@@ -7,7 +7,9 @@ author: Flaaim
 categories: PPE
 ---
 
-Acids are the most known corrosive elements, they can cause damages to your skin, your clothes and your eyes in case they splash on them. Thus the individuals working in acidic places and environments should ensure that they are safe by wearing safety and personal protective equipment. The ppe prevents your skin from getting contaminated from acids and other mutagens.<p>PPE for working with acid includes safety footwear, face and eye protective equipment, skin protection, body protection as well as respiratory protection. Below we are going to discuss these:
+Acids are the most known corrosive elements, they can cause damages to your skin, your clothes and your eyes in case they splash on them. Thus the individuals working in acidic places and environments should ensure that they are safe by wearing safety and personal protective equipment. The ppe prevents your skin from getting contaminated from acids and other mutagens.
+
+PPE for working with acid includes safety footwear, face and eye protective equipment, skin protection, body protection as well as respiratory protection. Below we are going to discuss these:
 
 ## 1.Protective clothing and footwear for working with acids
 ![PPE For Working With Acid](http://safetyworkblog.com/assets/louis-reed-JeInkKlI2Po-unsplash.jpg)
