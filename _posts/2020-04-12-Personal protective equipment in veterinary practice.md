@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Personal protective equipment in veterinary practice
 description: The protection in the medical part is extremely delicate and very important to take into account the exact measures and the necessary equipment that must be used in each process more than a necessity is an obligation of responsibility as a physician, to maintain the protection of all and as of himself.
 post_image: GettyImages-675025989.jpg
