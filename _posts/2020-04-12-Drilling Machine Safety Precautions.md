@@ -11,7 +11,7 @@ The drilling machines are quite a dangerous machine when you are using them in y
 
 Make sure you have the following safety tips at hand, so that you follow every detail on how to use the machine. When you follow these safety guidelines, you can be assured there won't be an accident. Accidents are not meant to happen. We are going to look at all the safety tips now.<p>Let's look at the pre operational checks first 
  
-![Drilling Machine Safety Precautions](https://safetyworkblog.com/drilling-1.jpg)
+![Drilling Machine Safety Precautions](https://safetyworkblog.com/assets/drilling-1.jpg)
 Make sure your workspace does not have any slippery hazards on the floor. If there is any slip contact, you might slip and fall on any of these machines, and that can be disastrous. 
 
 Make sure you ensure the chuck guard is always in position. 
