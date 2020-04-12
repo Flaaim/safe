@@ -16,6 +16,7 @@ It is no secret that this type of medicine contains diverse processes in which i
 ## Personal protection in veterinary practice
 
 ![Personal protective equipment in veterinary practice](https://safetyworkblog.com/assets/GettyImages-675025989.jpg)
+
 First in the veterinary clinic they must have certain cleaning areas such as hand washing areas, container areas for sharp objects (needles, scalpels) and isolation area for sick animals, however personal protection is also important to be able to access certain areas or practice.
 
 
