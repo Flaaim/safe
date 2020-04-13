@@ -26,7 +26,7 @@ You should also train your staff on how to handle emergencies if they occur, mak
 Cleaning materials used in car washes can be harmful to human beings. If some kind of Detergents and soap can cause skin irritation after long exposure and can affect the eyes if they come into contact. For this reason, you should ensure that all people wear protective clothing including eye care when working in the car washes.
 
 ## Mechanical Safety
-![Car Washes Safety](https://safetyworkblog.com/assets/Carwashero_1-web.jpg)
+![Car Washes Safety](https://safetyworkblog.com/assets/car-wash-2179231_640.jpg)
 Car washes have a lot of movement of vehicular traffic and machinery. One of the things you should do is to have an emergency stop procedure for any machinery in the car wash. This procedure helps avert any damage from occurring and reduces the potential damage it can cause. Also, there should be a check on all equipment every week and records for checks made. They should be serviced regularly to avoid break downs that may lead to injuries.
 
 In conclusion, keep safety first when running a car wash business not for the sake of meeting government regulations but for the reputation of your business. Reputation will help grow your business in leaps and bounds.
