@@ -7,7 +7,9 @@ author: Flaaim
 categories: PPE
 ---
 
-Minimal PPE or Personal Protective Equipment, handling instruction and other safety measures are provided in the pesticide label to minimize your employees' or your exposure when handling pesticides. So, in simple words, it can be defined as the clothing and devices which one wear in order to protect themselves from any hazardous contact with pesticide. Thus, it is necessary to reduce exposure which can lower the chances of poisoning, illness, injury associated with working with pesticides. Here it is important to mention that this protective gear and devices can only reduce the chance of exposure to pesticide and not completely eliminate it. So, proper and accurate PPE selection, use and care are vital steps.
+Minimal PPE or Personal Protective Equipment, handling instruction and other safety measures are provided in the pesticide label to minimize your employees' or your exposure when handling pesticides. 
+
+So, in simple words, it can be defined as the clothing and devices which one wear in order to protect themselves from any hazardous contact with pesticide. Thus, it is necessary to reduce exposure which can lower the chances of poisoning, illness, injury associated with working with pesticides. Here it is important to mention that this protective gear and devices can only reduce the chance of exposure to pesticide and not completely eliminate it. So, proper and accurate PPE selection, use and care are vital steps.
 
 ## What does it include?
 ![Personal Protective Equipment for Working with Pesticides](https://safetyworkblog.com/assets/a-man-spraying-pesticides-into-a-field-of-crops-that-will-be-used-for-food.jpg)
