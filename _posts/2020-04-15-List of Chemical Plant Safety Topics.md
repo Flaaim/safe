@@ -16,7 +16,7 @@ A great way to cover them all is to have at least one safety meeting a month. Th
 Sharing these chemical plant safety tips well help prevent accidents and injuries in the workplace. Safety should always be the top priority in all work situations exspecially one as dangerous as a chemical plant.
 
 ### Hazardous materials safety
-![List of Chemical Plant Safety Topics](http://safetyworkblog.com/assets/chemical-1.jpg)
+![List of Chemical Plant Safety Topics](https://safetyworkblog.com/assets/chemical-1.jpg)
 This is a very important topic in a chemical plant. Most employees will be in contact with at least one dangerous substance durning their work day. Knowing how to properly use and store these chemicals will greatly reduce the number of daily injuries. Another good safety topic is the NFPA Hazard Rating Diamond it is the best way to assess the dangers of a chemical. Each color has a different meaning as does each number. Teaching employees how to read the hazard diamond will help them understand what they are working with.
 
 ### Equipment safety
