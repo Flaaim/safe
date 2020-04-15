@@ -4,7 +4,7 @@ title: Drilling Machine Safety Precautions
 description: The drilling machines are quite a dangerous machine when you are using them in your shop or workplace.
 post_image: drilling-1.jpg
 author: Flaaim
-categories: [Workplace safety]
+categories: [Workplace Safety]
 ---
 
 The drilling machines are quite a dangerous machine when you are using them in your shop or workplace. 
