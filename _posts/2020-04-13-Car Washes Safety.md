@@ -4,7 +4,7 @@ title: Car Washes Safety
 description: Car washes are simple places where vehicles get a new look. Many car washes have potential accident spots that are often ignored
 post_image: Carwashero_1-web.jpg
 author: Flaaim
-categories: [Workplace safety]
+categories: [Workplace Safety]
 
 ---
 
