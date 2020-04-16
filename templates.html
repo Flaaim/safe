@@ -2,9 +2,9 @@
 layout: default
 ---
 
-{% for post in site.templates %}
+{% for post in site.categories.templates %}
 		
-		<h3><a href="{{ templates.url | prepend: site.baseurl }}">{{ templates.title }}</a></h3>
+		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 
 
 		
