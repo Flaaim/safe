@@ -8,7 +8,19 @@ categories: [Safety Tips]
 ---
 
 Gas cylinders are commonly used in many homes, medical and industrial areas. These equipment are very important especially in assisting you to make your meals and do other duties. However, it's important for you to be extremely careful when you are using them. 
-
+```javascript
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- swb-gorizontal-bottom -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9466483815741375"
+     data-ad-slot="7915638602"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+```
 If you happen you store them incorrectly or mishandle them, they can lead to hazardous safety and health issues. To ensure the safety of your home or workplace, you can look at the following tips on how to safely store gas cylinders.
 
 ## Proper handling of the cylinders
