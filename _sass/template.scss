@@ -4,8 +4,8 @@ padding: 0 15px;
   margin: 0 auto;
 }
 .wrapper {
-  display: grid;
-  grid-template-columns: 100px 100px 100px;
+  display: inline-grid;
+  grid-template-columns: 100px 0px 0px;
   grid-gap: 10px;
   background-color: #fff;
   color: #444;
@@ -16,5 +16,5 @@ padding: 0 15px;
   color: #fff;
   border-radius: 5px;
   padding: 20px;
-  font-size: 150%;
+  
 }
