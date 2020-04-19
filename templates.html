@@ -4,9 +4,11 @@ layout: template
 
 {% for post in site.categories.templates %}
 		
-		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+		<div class="wrapper">
+			
+			<div class="box a"><h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3></div>
 
-
+</div>
 		
 {% endfor %}
 
