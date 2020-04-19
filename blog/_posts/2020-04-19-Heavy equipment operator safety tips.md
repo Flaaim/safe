@@ -29,6 +29,7 @@ Communication while operating heavy equipment is vital to avoid any possible inj
 
 ## 5. Undertake routine inspection 
 ![Heavy equipment operator safety tips](https://safetyworkblog.com/assets/heavyeqop-1.jpg)
+
 Never assume that because certain equipment was working on the previous day it will work on the next day. Some parts of this equipment may break down unexpectedly, so it wise to always carry our daily, weekly or monthly equipment inspection according to how frequently such equipment is in operation.
 
 
