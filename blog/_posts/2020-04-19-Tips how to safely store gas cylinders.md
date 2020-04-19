@@ -12,7 +12,7 @@ Gas cylinders are commonly used in many homes, medical and industrial areas. The
 If you happen you store them incorrectly or mishandle them, they can lead to hazardous safety and health issues. To ensure the safety of your home or workplace, you can look at the following tips on how to safely store gas cylinders.
 
 ## Proper handling of the cylinders
-! [Tips how to safely store gas cylinders](https://safetyworkblog.com/assets/gas_cylenders_safety_storage.jpg)
+![Tips how to safely store gas cylinders](https://safetyworkblog.com/assets/gas_cylenders_safety_storage.jpg)
 
 Gas cylinders are quite heavy especially when they are full. If left to leak, they can lead to fire explosions. Therefore, you should ensure that the personnel in charge of handling the cylinders do wear protective footwear and gloves when carrying them. The gas cylinders should not be rolled, thrown or dropped onto the surface. If you have large gas cylinders, you can use a lift or trolley to move them into the storage unit.
 
