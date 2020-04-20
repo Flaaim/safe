@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Personal Protective Equipment in the Cookery
 description: Personal protective equipment is used to keep people safe from harm that may come in their way during work. 
 post_image: cookery-school-pro-class-LR-0039.jpg
