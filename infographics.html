@@ -4,3 +4,8 @@ images:
   - image_path: /assets/67c04a2437eff6865216d90efd6774e7.jpg
  title: Apple Pie
 ---
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>
