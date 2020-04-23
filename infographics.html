@@ -1,5 +1,12 @@
 ---
 title: Selected photos
 layout: infographics
-description: 'Selected photography by Jean Flanagan.'
+description: ''
 ---
+<div class="featured block--wide">
+{% for post in site.categories.photo %}
+  {% if post.option contains 'featured' %}
+{% include block/item--featured.html %}
+  {% endif %}
+{% endfor %}
+</div>
