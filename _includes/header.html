@@ -2,13 +2,13 @@
 	<div class="container">
 		<nav>
 			<ul>
-{% for page in site.pages %} {% if page.title %}
+{% for page in site.pages %} {% if page.title %}{% endif %} {% endfor %}
 <li><a href="{{ "/categories" | prepend: site.baseurl }}">Categories</a></li>
 
 <li><a href="{{ "" | prepend: site.baseurl }}">Blog</a></li>
 <li><a href="{{ "/infographics" | prepend: site.baseurl }}">Infographics</a></li>
 				<li><a href="{{ "/templates" | prepend: site.baseurl }}">Templates</a></li>
-				 {% endfor %}
+				
 			</ul>
 
 		</nav>
