@@ -3,3 +3,20 @@ padding: 0 15px;
   max-width:1500px;
   margin: 0 auto;
 }
+.featured {
+    justify-content: space-between;
+    padding: 0 .5em;
+  display: flex;
+   flex-flow: row wrap;
+}
+.block--wide {
+    flex: 0 1 60em;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 59em;
+}
+*, *:before, *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
