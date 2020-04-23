@@ -1,11 +1,12 @@
 ---
 layout: template
-images:
-  - image_path: /assets/67c04a2437eff6865216d90efd6774e7.jpg
- title: Apple Pie
 ---
-<ul class="photo-gallery">
-  {% for image in page.images %}
-    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
-  {% endfor %}
-</ul>
+
+<section class="photos">
+      {% for image in page.image %} <!-- Loop through the photos from the YAML frontmatter from an empty Jekyll post -->
+      <figure>
+        <img src="{{ page.image[forloop.index0] }}" alt="{{ page.image-alt[forloop.index0] }}"> <!-- Insert the src, the alt text for each image, using the forloop.index0 liquid helper -->
+      </figure>
+      <figcaption>{{ page.image-caption[forloop.index0] }}</figcaption> <!-- and the figcaption too -->
+      {% endfor %}
+    </section>
