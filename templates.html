@@ -2,14 +2,14 @@
 layout: template
 ---
 
-{% for post in site.categories.templates %}
+
 		
 		<div class="featured block--wide">
-			
+			{% for post in site.categories.templates %}
 			<article class="item--featured"><h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3></article>
-
+{% endfor %}
 </div>
 		
-{% endfor %}
+
 
 <p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
