@@ -5,7 +5,7 @@ layout: template
 
 	<div class="grid">
 {% for post in site.categories.templates %}
-<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}
+		<div class="box"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</div>
 {% endfor %}
 
 </div>	
