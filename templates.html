@@ -3,19 +3,11 @@ layout: template
 ---
 
 
-	<div class="featured block--wide">
-{% for post in site.categories.templates %}
-<article class="item--featured"><a style="background-image:url(assets/{{ post.post_image }})" class="item--featured-image" href="{{ post.url | prepend: site.baseurl }}"></a>
-	<div class="item-description"><h2 class="item-title"> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>  
-	<p class="item-time"></p>
-	</div>
 	
-			
-			
-			
-			</article>
+{% for post in site.categories.templates %}
+
 {% endfor %}
-</div>
+
 		
 
 
