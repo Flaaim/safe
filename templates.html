@@ -3,10 +3,17 @@ layout: template
 ---
 
 
-		
-		<div class="featured block--wide">
-			{% for post in site.categories.templates %}
-			<article class="item--featured"><h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3></article>
+	<div class="featured block--wide">
+{% for post in site.categories.templates %}
+<article class="item--featured"><a class="item--featured-image" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	<div class="item-description"><h2 class="item-title"> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>  
+	<p class="item-time"></p>
+	</div>
+	
+			
+			
+			
+			</article>
 {% endfor %}
 </div>
 		
