@@ -6,6 +6,7 @@ padding: 0 15px;
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, 250px);
+  height:500px;
 }
 .box {
   background-color: #407afc;
