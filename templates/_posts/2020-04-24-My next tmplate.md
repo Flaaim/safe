@@ -10,8 +10,8 @@ post_image: 67c04a2437eff6865216d90efd6774e7.jpg
 Check wiring to make sure it's
 
 ● properly insulated
-● the right choice for the job (such as labeled for use outdoors, or in work areas
-with hazardous substances)
+
+● the right choice for the job (such as labeled for use outdoors, or in work areas with hazardous substances)
 
 Check that electrical connections are tight
 
