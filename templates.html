@@ -3,7 +3,7 @@ layout: template
 ---
 
 
-	<div class="grid">
+	
 {% for post in site.categories.templates %}
 		<div class="box"><img class="img-template" src="{{ site.baseurl }}/assets/img/{{ post.post_image }}"><p>
 			<div class="box-title"><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></div>
@@ -11,7 +11,7 @@ layout: template
 			
 			{% endfor %}
 
-</div>	
+
 
 
 <p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
