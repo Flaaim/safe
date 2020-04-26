@@ -16,6 +16,7 @@ In other words, PPE reduces risks concerning the health issue of human beings as
 - Protective clothing.
 - Respiratory protective equipment.
 - Protective footwear.
+
 ![Personal Protective Equipment in Zoos](https://safetyworkblog.com/assets/544efb87-93b1-4ae5-a396-8bd8f9c4e44f-large16x9_ZooStaffCareforBabyGorilla.jpg)
 
 ## Gloves
