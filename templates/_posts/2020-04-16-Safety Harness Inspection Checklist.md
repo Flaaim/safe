@@ -167,6 +167,7 @@ Fail
 Signature: 							
 Date:
 
+[Download Safety Harness Inspection Checklist](https://safetyworkblog.com/assets/template/Harness Checklist .docx)
 
 
 
