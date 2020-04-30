@@ -20,3 +20,19 @@ In Service Date:
 |Missing   |   |   |   |
 | Deployed  |   |   |   |
 | Reserve lifeline deployed if applicable  |   |   |   |
+
+### Buckles
+|   |	Yes	| No	| Comment|
+|---|---|---|---|
+|Cracked	|		|||
+|Poor function	|	|||	
+|Missing Parts	|		|||
+|Corroded			||||
+|Burrs/sharp edges	|	|||	
+|Bent/distorted		|	|||
+|Damaged			||||
+
+
+
+
+
