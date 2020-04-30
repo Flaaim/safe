@@ -22,6 +22,7 @@ In Service Date:
 | Reserve lifeline deployed if applicable  |   |   |   |
 
 ### Buckles
+
 |   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Cracked	|		|||
@@ -33,12 +34,14 @@ In Service Date:
 |Damaged			||||
 
 ### Labels
+
 |   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Present and attached||||
 |Legible||||
 
 ### D-Rings
+
 |   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Cracked||||
@@ -48,6 +51,7 @@ In Service Date:
 |Sharp Edges||||
 
 ### Labels
+
 |   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Present and attached||||
@@ -60,6 +64,7 @@ Serial #
 Date of Manufacture:
 
 ### Connectors
+
 |   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Cracked||||
@@ -74,17 +79,21 @@ Date of Manufacture:
 |Closes but doesn’t lock||||
 |Single Action (no  lock on gate)||||
  
- ### Plastic Keepers   
+### Plastic Keepers  
+
  |   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Missing||||
 |Damaged||||
+
 ### D-Ring Plate (Back Pad)
+
  |   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Missing||||
 |Damaged||||
 ### Stitching
+
  |   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Cut||||
