@@ -1,6 +1,19 @@
 ---
 layout: post
-title: My cool template
-post_image: 67c04a2437eff6865216d90efd6774e7.jpg
+title: Safety Harness Iinspection Checklist 
+description: Safety Harness Iinspection Checklist template. 
+author: Flaaim
+post_image: 
 ---
-Heee
+
+Item Description: 		
+Model #				
+In Service Date:
+Impact Indicator (where applicable)
+|   |  Yes |  No |Comment   |
+|---|---|---|---|
+|Damaged   |   |   |   |
+|Missing   |   |   |   |
+| Deployed  |   |   |   |
+| Reserve lifeline deployed if applicable  |   |   |   |
+
