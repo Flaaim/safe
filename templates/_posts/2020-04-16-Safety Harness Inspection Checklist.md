@@ -81,20 +81,21 @@ Date of Manufacture:
  
 ### Plastic Keepers  
 
- |   |	Yes	| No	| Comment|
+|   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Missing||||
 |Damaged||||
 
 ### D-Ring Plate (Back Pad)
 
- |   |	Yes	| No	| Comment|
+|   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Missing||||
 |Damaged||||
+
 ### Stitching
 
- |   |	Yes	| No	| Comment|
+|   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Cut||||
 |Broken||||
@@ -103,7 +104,8 @@ Date of Manufacture:
 |Burned||||
 
 ### Wire Rope
- |   |	Yes	| No	| Comment|
+
+|   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Heat Damage||||
 |Kinked||||
@@ -115,8 +117,10 @@ Date of Manufacture:
 |Separation of strands||||
 |Abraded wires||||
 |Birdcaging||||
+
 ### Webbing
- |   |	Yes	| No	| Comment|
+
+|   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Cuts/ tears / holes||||
 |Burns||||
@@ -131,8 +135,10 @@ Date of Manufacture:
 |Heat damage / glazing||||
 |Permanent marking on load bearing webbing||||
 |Abrasion||||
+
 ### Shock Absorber
- |   |	Yes	| No	| Comment|
+
+|   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Cuts / tears / abrasions ||||
 |Deployed / stretched / elongated||||
@@ -142,7 +148,8 @@ Date of Manufacture:
 |Excessive soiling||||
 
 ### Rope
- |   |	Yes	| No	| Comment|
+
+|   |	Yes	| No	| Comment|
 |---|---|---|---|
 |Splice loose/ coming out||||
 |Thimble loose / missing||||
