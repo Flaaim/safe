@@ -6,10 +6,14 @@ author: Flaaim
 post_image: 
 ---
 
-Item Description: 		
-Model #				
+Item Description: 	
+
+Model #		
+
 In Service Date:
+
 Impact Indicator (where applicable)
+
 |   |  Yes |  No |Comment   |
 |---|---|---|---|
 |Damaged   |   |   |   |
