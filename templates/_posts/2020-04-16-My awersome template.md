@@ -3,7 +3,7 @@ layout: post
 title: Safety Harness Inspection Checklist 
 description: Safety Harness Inspection Checklist template. 
 author: Flaaim
-post_image: 
+post_image: harness_inspection_template.png 
 ---
 
 Item Description: 	
