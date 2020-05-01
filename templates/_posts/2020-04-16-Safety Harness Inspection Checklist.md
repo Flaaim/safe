@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_template
 title: Safety Harness Inspection Checklist 
 description: Safety Harness Inspection Checklist template. 
 author: Flaaim
