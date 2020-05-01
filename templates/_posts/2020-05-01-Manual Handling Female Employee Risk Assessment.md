@@ -65,6 +65,6 @@ post_image: Manual-Handling-Female-Employee-Risk-Assessment-Report-1.png
 
 4.16 Is the employee trained in appropriate handling techniques?
 
-![Manual Handling Female Employee Risk Assessment](httsp://safetyworkblog.com/assets/img/Manual-Handling-Female-Employee-Risk-Assessment-Report-1.png)
+![Manual Handling Female Employee Risk Assessment](https://safetyworkblog.com/assets/img/Manual-Handling-Female-Employee-Risk-Assessment-Report-1.png)
 
-[Download Manual Handling Female Employee Risk Assessment](httsp://safetyworkblog.com/assets/template/Manual Handling Female Employee Risk Assessment Report.docx)
+[Download Manual Handling Female Employee Risk Assessment](https://safetyworkblog.com/assets/template/Manual Handling Female Employee Risk Assessment Report.docx)
