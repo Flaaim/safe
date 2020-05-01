@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_template
 title: Electrical Safety Do's and Don'ts Checklist
 description: Electrical Safety Do's and Don'ts Checklist
 author: Flaaim
