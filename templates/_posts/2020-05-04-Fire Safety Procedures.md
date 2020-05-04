@@ -1,7 +1,7 @@
 ---
-layout: template_post
+layout: post_template
 title: Fire Safety Procedures
-description: Fire Safety Procedures. 
+description: Fire Safety Procedures. 1. On discovering a fire If you discover a fire, raise the alarm immediately
 author: Flaaim
 post_image: Fire-Safety-Procedures.png
 ---
