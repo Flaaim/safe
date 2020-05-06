@@ -6,6 +6,7 @@ author: Flaaim
 post_image: laminator-risk-assessment-form.png
 ---
 ![Laminator risk assessment form](https://safetyworkblog.com/assets/img/laminator-risk-assessment-form.png)
+
 #### Equipment assessed/location:
 
 Laminator, First floor office
@@ -36,7 +37,7 @@ Smoke and fumes from burning materials will cause respiratory discomfort. Fire c
 
 Cable holder supplied but not properly fixed own
 
-###Further controls / action
+### Further controls / action
 
 Re-fix cable cover or have new socket fitted
 
