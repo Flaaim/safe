@@ -9,9 +9,9 @@ categories: [Safety Tips]
 
 Construction safety is crucial in worksites to prevent injury or even death. Every day most workers are exposed to a potentially dangerous environment. There are so many safety tips that every worker must be aware of.
 
-![Safety Precautions When Working With Construction Materials](https://safetyworkblog.com/assets/men-working-at-construction-site.jpg)
 
 ## Be aware of your surroundings
+![Safety Precautions When Working With Construction Materials](https://safetyworkblog.com/assets/men-working-at-construction-site.jpg)
 
 Make sure you stay alert to the movement of large equipment and loads as you move about the grounds. Remember not to walk or stand under suspended loads. Falling loads and debris are the cause of a large number of injuries.
 
