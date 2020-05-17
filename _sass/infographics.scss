@@ -1,0 +1,25 @@
+.template {
+padding: 0 15px;
+  max-width:1500px;
+  margin: 0 auto;
+}
+.grid-infographics {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 450px);
+  padding: 0 15px;
+  max-width: 1500px;
+  margin: 0 auto;
+}
+.box {
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 30px;
+}
+.box-title {
+  color: #fff;
+  border-radius: 5px;
+}
+.img-infographics {
+      border: 1px solid;
+    border-color: #000;
+}
