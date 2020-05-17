@@ -6,8 +6,6 @@ author: Flaaim
 post_image: Toolbox_Talk_Trenching.png
 ---
 
-
-
 ## Overview
 
 Trenching operations are common to many types of construction and maintenance projects, and although inherently dangerous, the hazards of trench cave-ins are preventable.  Yet every year there are an estimated 75 to 200 deaths and more than 1,000 lost work days from trenching accidents.
