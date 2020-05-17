@@ -1,7 +1,7 @@
 ---
 layout: post_template
-title: Toolbox Talk: Trenching 
-description: Toolbox Talk: Trenching  
+title: Toolbox Talk Trenching 
+description: Toolbox Talk Trenching  
 author: Flaaim
 post_image: Toolbox_Talk_Trenching.png
 ---
