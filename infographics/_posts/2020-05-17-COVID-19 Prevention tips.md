@@ -7,3 +7,5 @@ post_image: covid_19.png
 ---
 
 ![COVID-19 Prevention Tips](https://safetyworkblog.com/assets/infographics/covid_19.png)
+
+[Download: A4 - format ](https://safetyworkblog.com/assets/infographics/covid_19-A4.png)
