@@ -1,5 +1,5 @@
 ---
-layout: post_template
+layout: post_infographics
 title: Coronavirus 2019-nCOV Safety Poster
 description: Coronavirus 2019-nCOV Safety Poster. Symphtoms, transmission and prevention
 author: Flaaim
