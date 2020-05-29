@@ -1,5 +1,5 @@
 ---
-layout: post_template
+layout: post_infographics
 title: Shisha smoking facts
 description: Shisha smoke is toxic. It contains chemicals, including carbon monoxide and tar, which are bad for your health and the health of those around you
 author: Flaaim
