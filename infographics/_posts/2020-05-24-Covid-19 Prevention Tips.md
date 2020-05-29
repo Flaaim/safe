@@ -1,5 +1,5 @@
 ---
-layout: post_template
+layout: post_infographics
 title: COVID-19 Prevention Tips
 description: COVID-19 Prevention Tips. Simple tips to prevent Covid-19
 author: Flaaim
