@@ -1,5 +1,5 @@
 ---
-layout: post_template
+layout: post_infographics
 title: Gas Cylinders Storage Safety
 description: Gas Cylinders Storage Safety. Take the following precautions to prevent injuries caused by asphyxiation, fire, explosion, high pressure, and improper handling of compressed gas cylinders
 author: Flaaim
