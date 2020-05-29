@@ -1,5 +1,5 @@
 ---
-layout: post_template
+layout: post_infographics
 title: Alcohol and COVID-19 what you need to know
 description: The following safety poster provides important information that you should know about alcohol consumption and COVID-19.
 author: Flaaim
