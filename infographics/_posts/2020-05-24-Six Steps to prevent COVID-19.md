@@ -1,5 +1,5 @@
 ---
-layout: post_template
+layout: post_infographics
 title: 6 Steps to prevent COVID-19
 description: Know how coronavirus (COVID-19) spreads and take steps to protect yourself and others. Avoid close contact, clean your hands often, cover coughs and sneezes, stay home if you’re sick, and know how to clean and disinfect.
 author: Flaaim
