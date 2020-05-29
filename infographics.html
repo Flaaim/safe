@@ -7,8 +7,8 @@ description: ''
 
 
 {% for post in site.categories.infographics %}
-		<div class="box"><img class="img-infographics" src="{{ site.baseurl }}/assets/infographics/{{ post.post_image }}"><p>
-			<div class="box-title"><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></div>
+		<a href="{{ post.url | prepend: site.baseurl }}"><div class="box"><img class="img-infographics" src="{{ site.baseurl }}/assets/infographics/{{ post.post_image }}"><p>
+			<div class="box-title"> {{ post.title }}</div></a>
 			</div>
 			
 			{% endfor %}
