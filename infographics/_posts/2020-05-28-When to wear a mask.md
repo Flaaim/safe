@@ -1,5 +1,5 @@
 ---
-layout: post_template
+layout: post_infographics
 title: When to wear a mask
 description: When to wear a mask. Face masks are one tool utilized for preventing the spread of disease. Face masks are loose-fitting masks that cover the nose and mouth, and have ear loops or ties or bands at the back of the head
 author: Flaaim
