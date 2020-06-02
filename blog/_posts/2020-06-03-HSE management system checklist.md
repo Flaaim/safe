@@ -19,7 +19,7 @@ Today, we're revealing 22 things you must check, whether you already have a Mana
 Use this checklist to ensure your Health and Safety Management System is compliant
  
 ## PLAN 
-![HSE management system checklist](https:/safetyworkblog.com/assets/Health-and-Safety-Management-Systems-en.png)
+![HSE management system checklist](https://safetyworkblog.com/assets/Health-and-Safety-Management-Systems-en.png)
 
 1. Does management agree and understand your health and safety intention? 
 2. Do you know the employer and employee legal obligations? 
