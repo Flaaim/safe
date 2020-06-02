@@ -7,8 +7,6 @@ author: Flaaim
 categories: [Safety]
 ---
 
-
-
 Your Health and Safety Management System is one of the most important tools you have to ensure your health and safety programme works effectively.
 
 It's important as it gives you a system to monitor, maintain, improve and control your company's health and safety.
