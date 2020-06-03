@@ -1,7 +1,7 @@
 ---
 layout: post_template
 title: Rail crane inspection checklist
-description: 
+description: Rail crane inspection checklist
 author: Flaaim
 post_image: Rail_crane_inspection_checklist.png
 ---
