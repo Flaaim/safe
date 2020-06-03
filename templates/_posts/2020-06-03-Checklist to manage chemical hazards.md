@@ -33,4 +33,5 @@ measures you choose should be recorded in your risk assessment.
 21. Is health surveillance required for certain tasks?
 22. Have you recorded your chemical hazards and the control measures in place?
 ![Checklist to manage chemical hazards](https://safetyworkblog.com/assets/img/Checklist_to_manage_chemical_hazards.png)
-[Download the Checklist](https://safetyworkblog.com/assets/template/Checklist to manage chemical hazards.docx)
+
+[Download the Checklist](https://safetyworkblog.com/assets/template/Checklist_to_manage_chemical_hazards.docx)
