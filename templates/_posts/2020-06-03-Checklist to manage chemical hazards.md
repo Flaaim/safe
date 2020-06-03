@@ -3,8 +3,8 @@ layout: post_template
 title: Checklist to manage chemical hazards
 description: Below is a checklist of controls you should consider to manage your chemical hazards. The control
 measures you choose should be recorded in your risk assessment.
-post_image: Checklist_to_manage_chemical_hazards.png
 author: Flaaim
+post_image: Checklist_to_manage_chemical_hazards.png
 ---
 Below is a checklist of controls you should consider to manage your chemical hazards. The control
 measures you choose should be recorded in your risk assessment.
