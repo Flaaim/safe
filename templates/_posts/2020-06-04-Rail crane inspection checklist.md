@@ -6,6 +6,7 @@ author: Flaaim
 post_image: Rail_crane_inspection_checklist.png
 ---
 
+
 1. Tagging – check that the crane is not tagged with an ‘out-of-order’ sign.
 2. Hook – check for damage, cracks, nicks, gouges, deformations of the throat opening, wear on the saddle or load bearing point, and twist.
 3. Hook latch – check for proper operation.
