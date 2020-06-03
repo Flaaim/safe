@@ -2,8 +2,8 @@
 layout: post_template
 title: Rail crane inspection checklist
 description: 
-post_image: Rail_crane_inspection_checklist.png
 author: Flaaim
+post_image: Rail_crane_inspection_checklist.png
 ---
 
 1. Tagging – check that the crane is not tagged with an ‘out-of-order’ sign.
