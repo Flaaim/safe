@@ -6,6 +6,7 @@ measures you choose should be recorded in your risk assessment.
 author: Flaaim
 post_image: Checklist_to_manage_chemical_hazards.png
 ---
+
 Below is a checklist of controls you should consider to manage your chemical hazards. The control
 measures you choose should be recorded in your risk assessment.
 
