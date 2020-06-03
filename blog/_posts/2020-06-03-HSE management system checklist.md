@@ -2,7 +2,7 @@
 layout: post
 title: HSE management system checklist
 description: Your Health and Safety Management System is one of the most important tools you have to ensure your health and safety programme works effectively.
-post_image: 
+post_image: Health_and_Safety_Management_Systems_en.png
 author: Flaaim
 categories: [Safety]
 ---
