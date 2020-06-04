@@ -11,4 +11,4 @@ Please refer to the manufacturer's cleaning instructions, including dilution rat
 ![Kitchen Daily Cleaning Schedule Record Sheet](https://safetyworkblog.com/assets/img/Kitchen_Daily_Cleaning_Schedule_Record_Sheet.png)
 
 
-[Download](https://safetyworkblog.com/assets/template/Kitchen_Daily_Cleaning_Schedule_Record_Shee.doc)
+[Download](https://safetyworkblog.com/assets/template/Kitchen_Daily_Cleaning_Schedule_Record_Shee.docx)
