@@ -88,7 +88,7 @@ A safe playground should have:
 2. Are swings located away from other playground equipment and protected by barriers? 
 3. Are the edges of seats smooth and free from obstructions? 
 4. Are multiple-axis swings mounted on frames that do not contain single axis swings? 
-## CLIMBING EQUIPMENT
+### CLIMBING EQUIPMENT
 1. Is the interior of the climbing equipment free of structural components upon which a child could fall?
 2. Are the tops of the equipment provided with an auxiliary means for reaching the ground?
 ### MERRY-GO-ROUNDS
@@ -106,9 +106,3 @@ A safe playground should have:
 
 
 
-
-
-
-
-
-[Download the Checklist](https://safetyworkblog.com/assets/template/Fall_Arrest_System_Inspection_Checklist.docx)
