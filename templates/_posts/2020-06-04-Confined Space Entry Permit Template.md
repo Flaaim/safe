@@ -26,7 +26,7 @@ Additional required permits (for example hot work, radiological work permit, pen
 ![Confined Space Entry Permit Template](https://safetyworkblog.com/assets/img/Confined_Space_Entry_Permit_Template1.png)
 
 ### Required for this entry (check all that apply) 
-####Equipment
+#### Equipment
 1. Non-entry rescue equipment
 - Full body harness
 - Tripod / hoist 
