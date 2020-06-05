@@ -1,7 +1,7 @@
 ---
 layout: post_template
-title: RAMS checklist
-description: RAMS checklist
+title: Risk Assessment and Method Statement (RAMS) checklist
+description: Risk Assessment and Method Statement (RAMS) checklist
 post_image: Rams_checklist.png
 author: Flaaim
 ---
