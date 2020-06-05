@@ -87,4 +87,4 @@ author: Flaaim
 - Detail description of Emergency procedures and Evacuation for the tasks described in this Method Statement.
 - List of numbers for First Aid Personnel & Emergency Contact
 
-[Download the checklist(https://safetyworkblog.com/assets/template/Rams_checklist.docx)
+[Download the checklist](https://safetyworkblog.com/assets/template/Rams_checklist.docx)
