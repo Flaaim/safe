@@ -24,6 +24,7 @@ author: Flaaim
 - Client Details.
 - Subcontractor Details.
 - Supplier Details
+
 ## 2. SCOPE OF WORKS
 
 - Description of Works and what it is covered by the MS.
@@ -54,7 +55,7 @@ author: Flaaim
 - PPE
 - COSHH
 
-6. CONTROL MEASURES & SUPERVISION
+## 6. CONTROL MEASURES & SUPERVISION
 
 
 - Monitoring, TBT, DABS, Task Sheets
@@ -65,7 +66,7 @@ author: Flaaim
 - Welfare
 - Public Interface
 
-7. RESOURCE
+## 7. RESOURCE
 
 
 - Plant
@@ -74,14 +75,14 @@ author: Flaaim
 - Materials
 - Production Rates
 
-8. ENVIRONMENT
+## 8. ENVIRONMENT
 
 - Noise
 - Dust
 - Vibration
 - Waste (Segregation, Disposal)
 
-9. EMERGENCY PROCEDURES & CONTACTS
+## 9. EMERGENCY PROCEDURES & CONTACTS
 - Project Emergency and Fire Plan
 - Detail description of Emergency procedures and Evacuation for the tasks described in this Method Statement.
 - List of numbers for First Aid Personnel & Emergency Contact
