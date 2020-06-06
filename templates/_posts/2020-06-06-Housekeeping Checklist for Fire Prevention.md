@@ -49,6 +49,8 @@ Good housekeeping is an important part of reducing the fire risk of a property. 
 2. Are filters for ventilating and exhaust systems replaced on a regular basis?
 ## Refrigeration 
 1. Are compressors, fans, and circulation equipment used in freezers, coolers, and cold storage rooms included in a regular cleaning and maintenance program? 
+
 ![Housekeeping Checklist for Fire Prevention](https://safetyworkblog.com/assets/img/Housekeeping_Checklist_for_Fire_Prevention.png)
+
 [Download the Housekeeping Checklist for Fire Prevention](https://safetyworkblog.com/assets/template/Housekeeping_Checklist_for_Fire_Prevention.docx)
 
