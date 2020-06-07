@@ -26,5 +26,5 @@ If you have to work near overhead power lines, remember to follow the tasks meth
 
 
 
-[Download Working in Public Toolbox Talk](https://safetyworkblog.com/assets/template/Toolbox_Talk_Overhead_Lines.docx)
+[Download Toolbox Talk](https://safetyworkblog.com/assets/template/Toolbox_Talk_Overhead_Lines.docx)
 
