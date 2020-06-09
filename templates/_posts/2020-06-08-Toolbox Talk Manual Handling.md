@@ -3,7 +3,7 @@ layout: post_template
 title: Toolbox Talk Manual Handling 
 description: Toolbox Talk Manual Handling. 
 author: Flaaim
-post_image: Toolbox_Talk Manual_Handling.png
+post_image: Toolbox_Talk_Manual_Handling.png
 ---
 
 ## We should consider the following:
