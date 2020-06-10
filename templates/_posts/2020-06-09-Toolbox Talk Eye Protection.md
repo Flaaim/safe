@@ -1,7 +1,7 @@
 ---
 layout: post_template
 title: Toolbox Talk Eye Protection
-description: You must wear eye protection where there is a risk of injury to the eyes. Examples of work activities requiring eye protection are as follows:
+description: You must wear eye protection where there is a risk of injury to the eyes. Examples of work activities requiring eye protection are as follows
 author: Flaaim
 post_image: Toolbox_Talk_Eye_Protection.png
 ---
