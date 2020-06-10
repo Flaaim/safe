@@ -1,6 +1,6 @@
 ---
 layout: post_template
-title: Toolbox Talk Propane Tank Safety
+title: Toolbox Talk Propane Tanks Safety
 description: Handling and Use of Propane Tanks
 author: Flaaim
 post_image: Toolbox_Talk_Propane_Tank_Safety.png
