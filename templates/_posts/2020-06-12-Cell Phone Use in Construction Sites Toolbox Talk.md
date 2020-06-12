@@ -1,6 +1,6 @@
 ---
 layout: post_template
-title: Toolbox Talk Cell Phones
+title: Cell Phone Use in Construction Sites Toolbox Talk
 description: Although cellular phones have proven themselves to be a valuable asset to the road construction industry, they have also proven themselves to be a danger as well.
 author: Flaaim
 post_image: Toolbox_Talk_Cell_Phones.png
