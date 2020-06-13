@@ -1,4 +1,4 @@
---
+---
 layout: post_template
 title: Avoiding Heat Stress Toolbox Talk
 description: The sun and warm weather of summer can also bring special hazards for those working outdoors. The combination of heat, humidity and physical labor can lead to illness.
