@@ -22,7 +22,10 @@ At  the start of each job, site supervisors (Foremen) should ensure that all  em
 2. On large jobs,  the muster point is covered in the orientation.
 3. On smaller jobs,  a muster point should be chosen that is in a safe area.  There should be no overhead hazards that  could fall and injure a worker.
 4. If a foreman is  unaware of the location of these items, they should contact their  superintendent and request the information prior to reaching the job-site
-
+## FIRST AID
+1. After an emergency situation, emergency services (fire, police and medical) may be unavailable for some time. It may be necessary to provide immediate care for an injured person if medical professionals cannot be reached. It is important to have a complete first aid kit and first aid training.
+2. Workers must have immediate access to an appropriate first aid kit at each site location. First aid kits may be permanent on-site kits or may be transported to the site by the worker for each site visit.
+3. In some instances, the first aid kit may need to be located in the worker’s vehicle and carried by the worker to the site location.
 
 [Download the toolbox talk](https://safetyworkblog.com/assets/template/Emergency_Preparedness_Toolbox_Talk.docx)
  
