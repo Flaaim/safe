@@ -3,7 +3,7 @@ layout: post_template
 title: Flammable Liquids Toolbox Talk 
 description: Flammable Liquids including petroleum based adhesives and paint products are used extensively throughout the construction industry and carry with them the risk of fire, serious accidents and injury
 author: Flaaim
-post_image: Flammable Liquids_Toolbox_Talk.png
+post_image: Flammable_Liquids_Toolbox_Talk.png
 ---
 
 Flammable Liquids including petroleum based adhesives and paint products are used extensively throughout the construction industry and carry with them the risk of fire, serious accidents and injury
