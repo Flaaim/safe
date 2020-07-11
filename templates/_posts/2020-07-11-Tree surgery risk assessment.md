@@ -5,8 +5,9 @@ description: Tree surgery risk assessment form
 author: Flaaim
 post_image: Tree_surgery_risk_assessment.png
 ---
-![Guillotine risk assessment form](https://safetyworkblog.com/assets/template/Guillotine_risk_assessment.png)
-![Guillotine risk assessment form](https://safetyworkblog.com/assets/template/Guillotine_risk_assessment_2.png)
+![Guillotine risk assessment form](https://safetyworkblog.com/assets/img/Guillotine_risk_assessment.png)
+
+![Guillotine risk assessment form](https://safetyworkblog.com/assets/img/Guillotine_risk_assessment_2.png)
 ## Assessment task: Tree surgery works
 
 ### Hz No.
