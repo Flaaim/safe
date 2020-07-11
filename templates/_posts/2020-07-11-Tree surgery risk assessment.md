@@ -10,7 +10,7 @@ post_image: Tree_surgery_risk_assessment.png
 ![Tree surgery risk assessment form](https://safetyworkblog.com/assets/img/Tree_surgery_risk_assessment_2.png)
 ## Assessment task: Tree surgery works
 
-### Hz No.
+### Hz No
 1.
 2.
 3.
