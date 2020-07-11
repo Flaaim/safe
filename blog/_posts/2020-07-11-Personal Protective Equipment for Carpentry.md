@@ -6,7 +6,9 @@ author: Flaaim
 post_image: shutterstock_303640922.jpg
 ---
 
-One should essentially put on a PPE-Personnel Protection Equipment when handling carpentry work at renovation or construction. A set of safety glasses and a hard hat is a must as a protection gear essential by the worker. Other than these safety vests of high visibility with striping to recognize and reflect is needed. Long sleeves, shirts, and full pants give security and is a must. Boots or durable heeled shoes provide that added security to your feet too. Other protection gear can be suggested by a supervisor depending on the job involved.
+One should essentially put on a PPE-Personnel Protection Equipment when handling carpentry work at renovation or construction. A set of safety glasses and a hard hat is a must as a protection gear essential by the worker. 
+
+Other than these safety vests of high visibility with striping to recognize and reflect is needed. Long sleeves, shirts, and full pants give security and is a must. Boots or durable heeled shoes provide that added security to your feet too. Other protection gear can be suggested by a supervisor depending on the job involved.
 
 
 ## This may comprise of:
