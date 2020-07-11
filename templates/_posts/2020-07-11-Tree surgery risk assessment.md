@@ -5,9 +5,9 @@ description: Tree surgery risk assessment form
 author: Flaaim
 post_image: Tree_surgery_risk_assessment.png
 ---
-![Guillotine risk assessment form](https://safetyworkblog.com/assets/img/Guillotine_risk_assessment.png)
+![Tree surgery risk assessment form](https://safetyworkblog.com/assets/img/Tree_surgery_risk_assessment.png)
 
-![Guillotine risk assessment form](https://safetyworkblog.com/assets/img/Guillotine_risk_assessment_2.png)
+![Tree surgery risk assessment form](https://safetyworkblog.com/assets/img/Tree_surgery_risk_assessment_2.png)
 ## Assessment task: Tree surgery works
 
 ### Hz No.
@@ -17,6 +17,7 @@ post_image: Tree_surgery_risk_assessment.png
 4.
 5. 
 6. 
+
 ### Hazard description
 Cuts and abrasions
 Fall from heights
@@ -78,7 +79,7 @@ R - <<e.g.12>> - <<e.g.20>> - <<e.g.12>> - <<e.g.16>> - <<e.g.4>> - <<e.g.4>>
 ### Severity (S) 5=fatal, 4=severe, 3=moderate, 2=slight, 1=negligible
 ### Risk (R) 0-8=low risk, no action required. 9-15=medium risk, ensure adequate controls are in use. 16-25=high risk, stop operation & implement control measures
 
-[Tree surgery risk assessment](https://safetyworkblog.com/assets/template/Tree_surgery_risk_assessment.pdf)
+[Download Tree surgery risk assessment](https://safetyworkblog.com/assets/template/Tree_surgery_risk_assessment.pdf)
 
 
 
