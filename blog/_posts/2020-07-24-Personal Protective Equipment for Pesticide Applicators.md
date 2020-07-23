@@ -11,7 +11,7 @@ While pesticides can be useful in their field, they can pose hazards to the huma
 Everything will depend on how much has entered our body, the path that selected once it's inside and the length of exposure. To avoid losing valuable employers, companies decided to establish some Personal Protective Equipment or PPE that can reduce the potential of dermal, oral, and inhalation exposures. In this way, the risk of getting poisoned by pesticides will be dramatically reduced, making it a chemical that can easy to use. Everything sounds good at this point, but what is the PPE that pesticide applicators should wear while doing their job? To discover this information, stay tuned.
 
 ## Personal Protective Equipment for Pesticide Applicators:
-![Personal Protective Equipment for Pesticide Applicators](https://safetyworkblog.com/assets/img/agriculture-worker.jpg)
+![Personal Protective Equipment for Pesticide Applicators](https://safetyworkblog.com/assets/agriculture-worker.jpg)
 Handling with any pesticide is difficult since there is always the risk of getting poisoned with that chemical, but if you're using the recommended PPE then everything will be less painful to do. The required equipment to work with these chemicals are items such as protective suits that contain gloves, some footwear of high quality, respirators, headgear, and most importantly eyewear, to understand the importance of every single one of those items, check the next explanations.
 
 ## Eyewears, Headgear, and Respirators:
