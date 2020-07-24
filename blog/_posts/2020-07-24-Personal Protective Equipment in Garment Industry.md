@@ -3,14 +3,14 @@ layout: post
 title: Personal Protective Equipment in Garment Industry
 description: Garment industry is a niche specializing in the manufacturing of items of clothing. The manufacturing sector in the garment industry is linked to the emission of toxic gases, such as sulphur dioxide and nitrous oxides.
 author: Flaaim
-post_image: yes_4.png
+post_image: no-end-to-woes-of-local-textile-and-garment-industry.jpg
 ---
 
 Garment industry is a niche specializing in the manufacturing of items of clothing. The manufacturing sector in the garment industry is linked to the emission of toxic gases, such as sulphur dioxide and nitrous oxides. These gases are emitted by systems, such as thermo pack, diesel generators, and boilers in the industry. Therefore, it's a great idea to wear the right personal protective equipment. Air pollution in the garment industry can lead to respiratory complications in the long run. Prevention is better than cure; therefore, it's important to invest in the right PPE. The best personal protective clothing should have the ability to prevent the occurrence of accidents, especially in hazardous areas.
 
 
 It's important to properly wear your personal protective clothing. The main reason behind this is to improve the suitability of the working condition. Garment industries should give their workers quality protective equipment and garments because they help in improving production. The quality of protective equipment plays a significant role in enhancing the efficiency of undertaken tasks. This is essential because it helps the firm to attain its main obligation. The main objective of any business is to maximize profit while minimizing the cost of production. The best PPE will cause not only workplace injury but also long term/short term health problems. Below are the benefits of personal protective clothing in the garment industry
-![Personal Protective Equipment in Garment Industry](https://safetyworkblog.com/assets/yes_4.png)
+![Personal Protective Equipment in Garment Industry](https://safetyworkblog.com/assets/no-end-to-woes-of-local-textile-and-garment-industry.jpg)
 ## Benefits of Personal Protective Equipment in Garment Industry
 ### 1. Lower the risk of Respiratory Problems
 
