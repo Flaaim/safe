@@ -14,8 +14,8 @@ sass:
   include: ['_pages']
 kramdown:
   input: GFM
-  
- plugins: - jekyll-paginate
+    
+plugins: - jekyll-paginate
   
 paginate: 10
 paginate_path: "/page:num/"
