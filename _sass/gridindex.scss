@@ -6,7 +6,10 @@
 }
 .cell {padding: 0px 20px;
   }
-.cell_tags {text-align:right;
+.cell_tags {
+  justify-content: center;
+    align-items: center;
+    display: flex;
   
   
 }
