@@ -1,8 +1,10 @@
 .grid_post {
   display: grid;
   grid-template-columns: 1fr 200px;
-  padding: 0 15px;
+  padding: 0 25px;
   margin: 0 auto;
+  border-bottom: 1px solid;
+    border-color: #d6d9de;
 }
 .cell {padding: 0px 20px;
   }
