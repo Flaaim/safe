@@ -3,6 +3,7 @@ layout: post
 title: Why is Personal protective equipment for restaurants essential?
 description: It is critical to note that providing your team with proper restaurant equipment and other supplier gears are essential in ensuring their safety and wellbeing while on the workplace. 
 author: Flaaim
+post_image: Hairnet.jpg
 ---
 
 It is critical to note that providing your team with proper restaurant equipment and other supplier gears are essential in ensuring their safety and wellbeing while on the workplace. To be more specific, restaurant and hotel employees are at a higher risk in their working places due to regular interaction with different work equipment and people. This requires them to have high-quality PPE (personal protective equipment) which reduces such risk of injury as well as keeping them protected from possible potential hazards. Some of the most common injuries experienced by restaurant employees in busy commercial kitchens include the following but not limited to cuts, burns and sprains.
