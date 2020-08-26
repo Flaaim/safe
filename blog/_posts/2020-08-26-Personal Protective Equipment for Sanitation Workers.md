@@ -4,6 +4,7 @@ title: Personal Protective Equipment for Sanitation Workers
 description: Personal Protective Equipment for Sanitation Workers
 author: Flaaim
 post_image: delhi-lockdown-covid-19-day-9_f1adb63e-7532-11ea-b308-ad7e0b841a10.webp
+categories: [PPE]
 ---
 
 The importance of personal protective equipment or PPE has always been talked about quite a bit over the past many decades. However, the importance of PPE for the front line sanitation workforce has become even more important after the covid-19 pandemic that has affected millions of people across the world. There is no doubt that these sanitation workforce are the front-line workers and therefore it is quite obvious that they should be well protected against various health hazards
