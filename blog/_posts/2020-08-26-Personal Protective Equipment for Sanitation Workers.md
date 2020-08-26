@@ -8,10 +8,10 @@ post_image: delhi-lockdown-covid-19-day-9_f1adb63e-7532-11ea-b308-ad7e0b841a10.w
 
 The importance of personal protective equipment or PPE has always been talked about quite a bit over the past many decades. However, the importance of PPE for the front line sanitation workforce has become even more important after the covid-19 pandemic that has affected millions of people across the world. There is no doubt that these sanitation workforce are the front-line workers and therefore it is quite obvious that they should be well protected against various health hazards
 
-They Are Dealing With Infectious Viruses & Germs 
-
+## They Are Dealing With Infectious Viruses & Germs 
 
 When we talk about the PPE, the list is quite big. It includes gloves, respirators, aprons, fall protection devices and also suits for the full body, apart from complete and total foot, eye and head protection. We need to bear in mind that the Covid-19 virus is extremely infectious and contagious. Unless the sanitation workers are well protected, it is quite obvious that they will be at great risk of infection. If they catch the covid-19 virus and other viruses, it is quite obvious that the doctors, nurses and other staff also are at great risk. 
+
 
 
 ## Their Safety is Safety of All Concerned
