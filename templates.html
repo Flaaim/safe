@@ -1,17 +1,74 @@
 ---
 layout: template
+title: Templates
 ---
 
-
 	
-{% for post in site.categories.templates %}
-		<div class="box"><img class="img-template" src="{{ site.baseurl }}/assets/img/{{ post.post_image }}"><p>
-			<div class="box-title"><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></div>
+	<h1>Templates</h1>
+	<div class="blog_posts"><h2>Checklist</h2>
+	<div class="row template">
+{% for post in site.categories.Checklist %}
+		<div class="column _30template">
+			<div class="box_template"><img class="img-template" src="{{ site.baseurl }}/assets/img/{{ post.post_image }}"><div class="box-title"><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></div>
 			</div>
-			
-			{% endfor %}
+		</div>
+		{% endfor %}	
+		</div>
+
+		<h2>Policy</h2>
+		<div class="row template">
+			{% for post in site.categories.Policy %}
+					<div class="column _30template">
+						<div class="box_template"><img class="img-template" src="{{ site.baseurl }}/assets/img/{{ post.post_image }}"><div class="box-title"><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></div>
+						</div>
+					</div>
+					{% endfor %}	
+					</div>
+		
+			<h2>Permit</h2>
+			<div class="row template">
+					{% for post in site.categories.Permit %}
+					<div class="column _30template">
+						<div class="box_template"><img class="img-template" src="{{ site.baseurl }}/assets/img/{{ post.post_image }}"><div class="box-title"><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></div>
+						</div>
+						</div>
+						{% endfor %}	
+		</div>
+
+		<h2>Risk Assessment</h2>
+			<div class="row template">
+					{% for post in site.categories['Risk Assessment'] %}
+					<div class="column _30template">
+						<div class="box_template"><img class="img-template" src="{{ site.baseurl }}/assets/img/{{ post.post_image }}"><div class="box-title"><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></div>
+						</div>
+						</div>
+						{% endfor %}	
+		</div>
 
 
+
+		<h2>Safe Work Practices</h2>
+			<div class="row template">
+					{% for post in site.categories.SWP %}
+					<div class="column _30template">
+						<div class="box_template"><img class="img-template" src="{{ site.baseurl }}/assets/img/{{ post.post_image }}"><div class="box-title"><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></div>
+						</div>
+						</div>
+						{% endfor %}	
+		</div>
+
+		
+		<h2>Toolbox Talk</h2>
+			<div class="row template">
+					{% for post in site.categories['Toolbox Talk'] %}
+					<div class="column _30template">
+						<div class="box_template"><img class="img-template" src="{{ site.baseurl }}/assets/img/{{ post.post_image }}"><div class="box-title"><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></div>
+						</div>
+						</div>
+						{% endfor %}	
+		</div></div>
+					
+		
 
 
 <p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

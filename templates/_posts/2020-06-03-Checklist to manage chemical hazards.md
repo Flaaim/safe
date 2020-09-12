@@ -4,6 +4,7 @@ title: Checklist to manage chemical hazards
 description: 
 author: Flaaim
 post_image: Checklist_to_manage_chemical_hazards.png
+categories: Checklist
 ---
 
 Below is a checklist of controls you should consider to manage your chemical hazards. The control

@@ -4,6 +4,7 @@ title: Childcare Hand Washing Policy
 description: Childcare Hand Washing Policy. Good handwashing and drying procedures help to protect both staff and children from infections, germs, wound contamination and help to preserve general hand and nail health.
 author: Flaaim
 post_image: Childcare_Hand_Washing_Policy.png
+categories: Policy
 ---
 
 

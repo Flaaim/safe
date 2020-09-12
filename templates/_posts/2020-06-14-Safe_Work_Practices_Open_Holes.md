@@ -4,6 +4,7 @@ title: Safe Work Practices Open Holes
 description: Safe Work Practices Open Holes. Open holes are dangerous and  could cause injury to a worker.
 author: Flaaim
 post_image: Safe_Work_Practices_Open_Holes.png
+categories: SWP
 ---
 
 ## 1.    Purpose

@@ -4,6 +4,7 @@ title: Working in Public Toolbox Talk
 description: When used to cut kerbs, paving, blocks or any other concrete based material you will produce enormous of dust (stone dust) The stone dust will contain some very fine dust called respirable crystalline silica or RCS for short.
 author: Flaaim
 post_image: Working_in_Public_Toolbox_Talk.png
+categories: [Toolbox Talk]
 ---
 
 Our works will have an impact on the surrounding area and community; many in the community will have great concerns over the start of construction in the neighbourhood, whilst others will be interested in our works.

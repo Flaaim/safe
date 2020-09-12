@@ -4,6 +4,7 @@ title: Safe Work Practices - Rolling Asphalt
 description: 
 author: Flaaim
 post_image: Safe_Work_Practices_Rolling_Asphalt.png
+categories: SWP
 ---
 
 

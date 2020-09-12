@@ -4,6 +4,7 @@ title: Rail crane inspection checklist
 description: Rail crane inspection checklist
 author: Flaaim
 post_image: Rail_crane_inspection_checklist.png
+categories: Checklist
 ---
 
 

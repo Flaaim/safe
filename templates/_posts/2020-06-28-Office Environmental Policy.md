@@ -4,6 +4,7 @@ title: Office Environmental Policy
 description: The Environmental Policy of Company name (“the Company”) is to ensure so far as it is reasonably practicable that its operations will be carried out with a commitment to protecting  and enhancing the environment.
 author: Flaaim
 post_image: Office_Environmental_Policy.png
+categories: Policy
 ---
 
 The Environmental Policy of Company name (“the Company”) is to ensure so far as it is reasonably practicable that its operations will be carried out with a commitment to protecting  and enhancing the environment.

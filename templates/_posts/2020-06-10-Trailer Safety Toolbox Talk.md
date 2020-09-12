@@ -4,6 +4,7 @@ title: Trailer Safety Toolbox Talk
 description: Almost every person who regularly pulls a trailer has some type of experience where they’ve lost their trailer or almost lost their trailer. Some of these stories may have had uneventful endings; however, trailers have the potential of becoming unguided missiles if they are not properly hooked up or cared for.
 author: Flaaim
 post_image: Trailer_Safety_Toolbox_Talk.png
+categories: [Toolbox Talk]
 ---
 
 Almost every person who regularly pulls a trailer has some type of experience where they’ve lost their trailer or almost lost their trailer. Some of these stories may have had uneventful endings; however, trailers have the potential of becoming unguided missiles if they are not properly hooked up or cared for.

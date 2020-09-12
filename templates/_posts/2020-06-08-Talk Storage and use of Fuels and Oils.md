@@ -4,6 +4,7 @@ title: Toolbox Talk Storage and use of Fuels and Oils
 description: Toolbox Talk Storage and use of Fuels and Oils. Petrol, Diesel and Oils inappropriately used, stored or disposed of can give rise to pollution of the environment
 author: Flaaim
 post_image: Toolbox_Talk_Storage_and_use_of_Fuels_and_Oils.png
+categories: [Toolbox Talk]
 ---
 
 Petrol, Diesel and Oils inappropriately used, stored or disposed of can give rise to pollution of the environment

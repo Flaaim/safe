@@ -4,6 +4,7 @@ title: Excavation permit to work template
 description: Excavation permit to work template
 post_image: Excavation_permit_to_work_template1.png
 author: Flaaim
+categories: Permit
 ---
 
 ![Excavation permit to work template](https://safetyworkblog.com/assets/img/Excavation_permit_to_work_template1.png)

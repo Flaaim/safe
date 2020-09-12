@@ -4,6 +4,7 @@ title: Toolbox Talk Propane Tanks Safety
 description: Handling and Use of Propane Tanks
 author: Flaaim
 post_image: Toolbox_Talk_Propane_Tank_Safety.png
+categories: [Toolbox Talk]
 ---
 ## Topic: Handling and Use of Propane Tanks
 ### Key safety points for discussion:

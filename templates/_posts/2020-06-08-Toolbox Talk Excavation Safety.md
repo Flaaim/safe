@@ -4,6 +4,7 @@ title: Toolbox Talk Excavation Safety
 description: Toolbox Talk Excavation Safety. Almost all serious excavation accidents occur not in bad ground, but in so called "Good" ground.
 author: Flaaim
 post_image: Toolbox_Talk_Excavation_Safety.png
+categories: [Toolbox Talk]
 ---
 
 Almost all serious excavation accidents occur not in bad ground, but in so called "Good" ground.

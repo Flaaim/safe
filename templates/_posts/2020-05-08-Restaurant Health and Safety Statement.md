@@ -4,6 +4,7 @@ title: Restaurant Health and Safety Statement
 description: It is the policy of [Establishment name] (“the Business”) to foster a positive health and safety culture throughout because we believe that high standards of health and safety are both a moral and commercial pre-requisite.
 author: Flaaim
 post_image: Restaurant_Health_and_Safety_Statement.png
+categories: Statement
 ---
 
 It is the policy of [Establishment name] (“the Business”) to foster a positive health and safety culture throughout because we believe that high standards of health and safety are both a moral and commercial pre-requisite.

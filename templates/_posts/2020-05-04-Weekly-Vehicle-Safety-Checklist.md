@@ -4,6 +4,7 @@ title: Weekly Vehicle Safety Checklist
 descrition: Weekly Vehicle Safety Checklist
 author: Flaaim
 post_image: Weekly-Vehicle-Safety-Checklist.png
+categories: Checklist
 ---
 ![Weekly Vehicle Safety Checklist](https://safetyworkblog.com/assets/img/Weekly-Vehicle-Safety-Checklist.png)
 | Driver:  |  Vehicle: |Registration Number :   | Date:  |

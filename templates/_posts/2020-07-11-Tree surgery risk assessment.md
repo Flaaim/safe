@@ -4,6 +4,7 @@ title: Tree surgery risk assessment
 description: Tree surgery risk assessment form
 author: Flaaim
 post_image: Tree_surgery_risk_assessment.png
+categories: [Risk Assessment]
 ---
 ![Tree surgery risk assessment form](https://safetyworkblog.com/assets/img/Tree_surgery_risk_assessment.png)
 

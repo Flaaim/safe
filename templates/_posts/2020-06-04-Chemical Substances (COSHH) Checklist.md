@@ -4,6 +4,7 @@ title: Chemical Substances (COSHH) Checklist
 description: Chemical Substances (COSHH) Checklist
 author: Flaaim
 post_image: Chemical_Substances_(COSHH)_Checklist.png
+categories: Checklist
 ---
 
 ## Site COSHH Safety

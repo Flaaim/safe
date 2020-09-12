@@ -4,6 +4,7 @@ title: Construction stop work form
 description: When a stop work has been issued, the supervisor of the person whose work has been stopped must make sure this form is completed and observation recorded in as complete and objective a manner as possible.
 author: Flaaim
 post_image: Construction_stop_work_form.png
+categories: Form
 ---
 
 When a stop work has been issued, the supervisor of the person whose work has been stopped must make sure this form is completed and observation recorded in as complete and objective a manner as possible.

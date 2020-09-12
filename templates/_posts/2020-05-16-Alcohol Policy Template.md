@@ -4,6 +4,7 @@ title: Alcohol Policy Template
 description: Alcohol Policy Template. [Company] are responsible employers and we take our obligations to our employees very seriously. This is why we have set out this policy to help us ensure the health, safety and welfare of our employees and to help us comply with our legal duties.  
 author: Flaaim
 post_image: Alcohol_Policy_Template.png
+categories: Policy
 ---
 
 

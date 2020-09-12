@@ -4,6 +4,7 @@ title: Mobile crane daily inspection checklist
 description: Mobile crane daily inspection checklist. Pre Start-up Walk-around. Interior Cab Checks.Function Checks. Start-up
 author: Flaaim
 post_image: Mobile_crane_daily_inspection_checklist.png
+categories: Checklist
 ---
 
 - Operator:

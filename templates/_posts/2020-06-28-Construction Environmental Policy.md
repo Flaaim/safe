@@ -4,6 +4,7 @@ title: Construction Environmental Policy
 description: Company  name (the  “Company”)  accepts  that  its  activities  generate  waste  material. Therefore, the  Environmental  Policy  of  the  Company  is  to  ensure  so  far  as  it  is  reasonably practicable  that  all  its  operations  will  be  carried  out  with  a  commitment  to  reducing  waste, thereby protecting and enhancing the environment.  The same commitment will be expected to be shown by contractors working for the Company.
 author: Flaaim
 post_image: Construction_Environmental_Policy.png
+categories: Policy
 ---
 
 

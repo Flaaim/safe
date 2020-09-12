@@ -4,6 +4,7 @@ title: Confined Space Toolbox Talk
 description: Confined spaces are dangerous, within the UK on average 15 people are killed each year, the reason for these deaths and accidents when working in confined spaces is ignorance, ignorance of the dangers associated with confined spaces
 author: Flaaim
 post_image: db602553f07cc6f3d446c9c7d7bce5f3.jpg
+categories: [Toolbox Talk]
 ---
 
 Confined spaces are dangerous, within the UK on average 15 people are killed each year, the reason for these deaths and accidents when working in confined spaces is ignorance, ignorance of the dangers associated with confined spaces

@@ -4,6 +4,7 @@ title: Laminator risk assessment form
 description: Laminator risk assessment form
 author: Flaaim
 post_image: laminator-risk-assessment-form.png
+categories: [Risk Assessment]
 ---
 ![Laminator risk assessment form](https://safetyworkblog.com/assets/img/laminator-risk-assessment-form.png)
 

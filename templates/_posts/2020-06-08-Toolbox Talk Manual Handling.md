@@ -4,6 +4,7 @@ title: Toolbox Talk Manual Handling
 description: Toolbox Talk Manual Handling. 
 author: Flaaim
 post_image: Toolbox_Talk_Manual_Handling.png
+categories: [Toolbox Talk]
 ---
 
 ## We should consider the following:

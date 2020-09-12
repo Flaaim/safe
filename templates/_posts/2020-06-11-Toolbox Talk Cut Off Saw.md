@@ -4,6 +4,7 @@ title: Toolbox Talk Cut Off Saw
 description: Only qualified personnel are allowed to operate a cut-off saw.  When using this piece of equipment, it is important to remember the following dos and don’ts.
 author: Flaaim
 post_image: Toolbox_Talk_Cut_Off_Saw.png
+categories: [Toolbox Talk]
 ---
 
 ## CUT-OFF SAW SAFE WORK PRACTICES

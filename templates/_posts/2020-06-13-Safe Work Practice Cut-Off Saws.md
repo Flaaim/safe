@@ -4,6 +4,7 @@ title: Safe Work Practice Cut-Off Saws
 description: When using this piece of equipment, it is important to remember the following practices
 author: Flaaim
 post_image: Safe_Work_Practice_Cut-Off_Saws.png
+categories: SWP
 ---
 
 

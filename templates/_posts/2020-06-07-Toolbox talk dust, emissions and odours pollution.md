@@ -4,6 +4,7 @@ title: Toolbox talk dust, emissions and odours pollution
 description: Dust is generally considered to be any airborne solid matter up to about 2mm in size. Particle sizes vary considerably, depending on their origin, and the smallest particles can be breathed in.
 author: Flaaim
 post_image: Toolbox_talk_dust_emissions_and_odours_pollution.png
+categories: [Toolbox Talk]
 ---
 
 Dust, emissions and odours arising from a site will annoy neighbours and can even cause health risks at very high concentrations. They are particularly hazardous to site staff in confined spaces, so seek information on controls from the Company Health and Safety Manager.

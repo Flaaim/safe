@@ -4,6 +4,7 @@ title: Guillotine risk assessment
 description: Guillotine Risk Assessment Form
 author: Flaaim
 post_image: Guillotine_risk_assessment.png
+categories: [Risk Assessment]
 ---
 ![Guillotine risk assessment form](https://safetyworkblog.com/assets/img/Guillotine_risk_assessment.png)
 

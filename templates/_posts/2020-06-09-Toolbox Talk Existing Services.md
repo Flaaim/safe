@@ -4,6 +4,7 @@ title: Toolbox Talk Existing Services
 description: Services which covers, Gas, Water, Electricity, Telephone, Communication and other such pipelines and Cables are in the majority of cases buried and so are out of site and mind until such time as they are discovered during excavation.
 author: Flaaim
 post_image: Toolbox_Talk_Existing_Services.png
+categories: [Toolbox Talk]
 ---
 
 Services which covers, Gas, Water, Electricity, Telephone, Communication and other such pipelines and Cables are in the majority of cases buried and so are out of site and mind until such time as they are discovered during excavation.

@@ -4,6 +4,7 @@ title: Company Safe Driving Policy
 description: It has been estimated that there are 6 million cars on the road for business reasons. The Department of Transport has suggested that half of those will be involved in an accident every year.
 author: Flaaim
 post_image: Company-Safe-Driving-Policy-1.png
+categories: Policy
 ---
 
 It has been estimated that there are 6 million cars on the road for business reasons. The Department of Transport has suggested that half of those will be involved in an accident every year.

@@ -4,6 +4,7 @@ title: Automotive Workshop Environmental Policy
 description: Automotive Workshop Environmental Policy. The Environmental and Sustainability Statement of [Company Name] (“the Company”) is to ensure, so far as it is reasonably practicable, that its operations will be carried out with a commitment to protecting and enhancing the environment.
 author: Flaaim
 post_image: Automotive_Workshop_Environmental_Policy.png
+categories: Policy
 ---
 
 

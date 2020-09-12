@@ -4,6 +4,7 @@ title: Toolbox Talk Trenching
 description: Toolbox Talk Trenching  
 author: Flaaim
 post_image: Toolbox_Talk_Trenching.png
+categories: [Toolbox Talk]
 ---
 
 ## Overview

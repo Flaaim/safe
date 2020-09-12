@@ -4,6 +4,7 @@ title: Toolbox Talk Shift Work
 description: In the road construction industry, an unavoidable fact is that you will be exposed to shift work.  Working different shifts often leads to fatigue, and fatigue can
 author: Flaaim
 post_image: Toolbox_Talk_Shift_Work.png
+categories: [Toolbox Talk]
 ---
 
 In the road construction industry, an unavoidable fact is that you will be exposed to shift work.  Working different shifts often leads to fatigue, and fatigue can:

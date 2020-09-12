@@ -4,6 +4,7 @@ title: Avoiding Heat Stress Toolbox Talk
 description: The sun and warm weather of summer can also bring special hazards for those working outdoors. The combination of heat, humidity and physical labor can lead to illness.
 author: Flaaim
 post_image: Avoiding_Heat_Stress_Toolbox_Talk.png
+categories: [Toolbox Talk]
 ---
 
 The sun and warm weather of summer can also bring special hazards for those working outdoors. The combination of heat, humidity and physical labor can lead to illness. The two most serious forms of heat-related illnesses are heat exhaustion (primarily from dehydration) and heat stroke. Signs of heat exhaustion or heat stroke need immediate attention. Recognizing those warning signs and taking quick action can make a difference in preventing heat illnesses.

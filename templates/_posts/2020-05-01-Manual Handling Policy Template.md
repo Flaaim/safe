@@ -4,6 +4,7 @@ title: Manual Handling Policy Template
 description: Manual Handling Policy. Poor Manual Handling/ Moving and Handling is one of the most common causes of absence from work, with over a third of all workplace injuries being attributed to manual handling.
 author: Flaaim
 post_image: Manual-Handling-Policy-1.png
+categories: Policy
 ---
 
 

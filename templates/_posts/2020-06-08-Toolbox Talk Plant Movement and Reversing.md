@@ -4,6 +4,7 @@ title: Toolbox Talk Plant Movement and Reversing
 description: Plant operators should as part of their daily checks ensure that all mirrors,  cameras if fitted, beacons, lights and audible devices are fully functional at the beginning of each shift and report any defects to there supervisor immediately.
 author: Flaaim
 post_image: Toolbox_Talk_Plant_Movement_and_Reversing.png
+categories: [Toolbox Talk]
 ---
 
 ## Plant Movements

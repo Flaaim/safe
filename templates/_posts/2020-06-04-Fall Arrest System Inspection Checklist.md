@@ -4,6 +4,7 @@ title: Fall Arrest System Inspection Checklist
 description: Fall Arrest System Inspection Checklist. Vertical Lifelines. Anchorage Points. Horizontal Lifelines. Fall Arresters (Rope Grabs). Lanyards. Retractable Lifeline (RL). Body Harnesses and Other Considerations.
 post_image: Fall_Arrest_System_Inspection_Checklist.png
 author: Flaaim
+categories: Checklist
 ---
 
 ### Anchorage Points

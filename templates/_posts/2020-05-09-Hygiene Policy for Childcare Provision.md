@@ -4,6 +4,7 @@ title: Hygiene Policy for Childcare Provision
 description: The Company aims to provide both children and staff with a clean and hygienic environment and wherever possible the Company seeks to prevent the spread of infection. This Policy has been created in order to help fulfil these aims.
 author: Flaaim
 post_image: Hygiene_Policy_for_Childcare_Provision.png
+categories: Policy
 ---
 
 ## 1. Introduction

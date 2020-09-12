@@ -4,6 +4,7 @@ title: Accident Prevention Toolbox Talk
 description: Whilst overall accident statistics indicate a general reduction, the construction industry remains the exception by showing an increase. It is essential that all personnel contribute in every way possible to reduce accident rates in construction.
 author: Flaaim
 post_image: Accident_Prevention_Toolbox_Talk.png
+categories: [Toolbox Talk]
 ---
 
 Whilst overall accident statistics indicate a general reduction, the construction industry remains the exception by showing an increase. It is essential that all personnel contribute in every way possible to reduce accident rates in construction.

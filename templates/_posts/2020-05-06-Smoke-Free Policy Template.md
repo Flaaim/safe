@@ -4,6 +4,7 @@ title: Smoke-Free Policy Template
 description: Smoke-Free Policy Template.
 author: Flaaim
 post_image: Smoke-Free-Policy-Template.png
+categories: Policy
 ---
 
 ## Introduction

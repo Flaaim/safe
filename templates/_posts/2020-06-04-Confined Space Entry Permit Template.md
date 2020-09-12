@@ -4,6 +4,7 @@ title: Confined Space Entry Permit Template
 description: This permit establishes that all hazards have been identified and controlled and lists authorized entrants, attendant, and entry supervisor.  
 post_image: Confined_Space_Entry_Permit_Template1.png
 author: Flaaim
+categories: Permit
 ---
 
 This permit establishes that all hazards have been identified and controlled and lists authorized entrants, attendant, and entry supervisor. This permit (or equivalent subcontractor’s permit) must be completed and signed by the confined space entry supervisor before work begins, remain in use at the job site until work is complete, and sent to the confined space program manager once work is complete.

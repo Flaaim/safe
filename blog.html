@@ -1,0 +1,24 @@
+---
+layout: template
+permalink: /blog/
+title: Blog
+---
+
+<h1>Blog</h1>
+<div class="blog_posts"><h2>2020</h2>
+    
+    <div class="blog">{% for post in site.categories.blog  %}
+        <div class="column _50">
+
+            <time>{{ post.date | date: "%b %-d, %Y" }}
+                <i class="fa fa-tags"></i></time><a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+        </div>
+
+
+
+        {% endfor %}
+    </div>
+    
+
+
+</div>

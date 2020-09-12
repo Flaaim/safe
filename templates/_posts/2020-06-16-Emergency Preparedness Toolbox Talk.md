@@ -4,6 +4,7 @@ title: Emergency Preparedness Toolbox Talk
 description: Uneven terrain is often a hazard that is overlooked, because many feel that there are many other dangerous hazards present on the work-site.  However, each and every year, there are several injuries to ankles and knees due to uneven terrain.  What are some of the culprits that many of us may take for granted
 author: Flaaim
 post_image: Emergency_Preparedness_Toolbox_Talk.png
+categories: [Toolbox Talk]
 ---
 
 Emergencies can occur any time without warning. The more you are prepared for them, the better you will be able to act, minimizing panic and confusion when an emergency occurs.

@@ -4,6 +4,7 @@ title: Electrical equipment safety inspection checklist
 description: Electrical equipment safety inspection checklist
 author: Flaaim
 post_image: Electrica_equipment_safety_inspection_checklist.png
+categories: Checklist
 ---
 
 

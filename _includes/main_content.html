@@ -1,26 +1,67 @@
-<div class="row">
 
-<div class="column _100"><h2>Blog posts</h2>
-        {% for post in site.posts %}
-    <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+<div class="blog_posts"><h2>Latest Articles <a class="section_button" href="{{site.baseurl}}/blog/">View all</a></h2>
+
+    {% for post in site.categories.blog limit: 5 %}
+    
+    <div class="row">
+    <div class="column _70"><time>{{ post.date | date: "%b %-d, %Y" }}
+            <i class="fa fa-tags"></i></time><a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a> </div>
+    <div class="column _30">  {% if post %}
+        {% assign categories = post.categories %}
+      {% else %}
+        {% assign categories = page.categories %}
+      {% endif %}
+      {% for category in categories %}
+      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+      {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}</div>
+    
+    </div>
     {% endfor %}
     </div>
-  </div>
-  <div class="row">
 
-        <div class="column _100">
-		
-		<h2>Blog posts</h2>
-        
-        </div>
-  </div>
-  <div class="row">
+    
+    <div class="blog_posts"><h2>Latest templates <a class="section_button" href="{{site.baseurl}}/templates/">View all</a></h2>
+      {% for post in site.categories.templates limit:5 %}
+      <div class="row">
+        <div class="column _70"><time>{{ post.date | date: "%b %-d, %Y" }}
+          <i class="fa fa-tags"></i></time> <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a></div>
+          <div class="column _30">  {% if post %}
+            {% assign categories = post.categories %}
+          {% else %}
+            {% assign categories = page.categories %}
+          {% endif %}
+          {% for category in categories %}
+          <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+          {% unless forloop.last %}&nbsp;{% endunless %}
+          {% endfor %}</div>
 
-        <div class="column _100">
-           <h2>Template docs</h2> 
-            
-        
-        </div>
-        
-        
+
+
     </div>
+    {% endfor %}
+    </div>
+
+    <div class="blog_posts"> <h2>Infographics <a class="section_button" href="{{site.baseurl}}/infographics/">View all</a></h2>
+      <div class="row">
+        {% for post in site.categories.infographics limit:5 %}
+          <div class="column _25">
+           
+            <div class="box"><a href="{{ post.url | prepend: site.baseurl }}"><img class="img-infographics" src="{{ site.baseurl }}/assets/infographics/{{ post.post_image }}">
+              <div class="box-title"> {{ post.title }}</a></div>
+              </div>
+              
+              
+           </div>
+           {% endfor %}
+      </div>
+
+
+
+
+
+
+    </div>
+
+
+    

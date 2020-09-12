@@ -4,6 +4,7 @@ title: Safe Work Practices Spray Painting
 description: Protecting workers from injuries associated with spray painting operations.
 author: Flaaim
 post_image: Safe_Work_Practices_Spray_Painting.png
+categories: SWP
 ---
 
 ## 1.	Purpose	

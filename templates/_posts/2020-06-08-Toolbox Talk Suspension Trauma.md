@@ -4,6 +4,7 @@ title: Toolbox Talk Suspension Trauma
 description: One of the effects of being suspended in a harness is tightening of the leg straps that bear the body weight of the suspended person.
 author: Flaaim
 post_image: Toolbox_Talk_Suspension_Trauma.png
+categories: [Toolbox Talk]
 ---
 
 ## What is Suspension trauma or Orthosatic Intolerance?

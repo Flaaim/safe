@@ -4,6 +4,7 @@ title: Safe Work Practices Manual Lifting
 description: Most lifting accidents are due to improper lifting methods rather than lifting heavy loads.  All manual lifting should be planned and safe-lifting practices followed.  The following list of recommendations will help to avoid back injuries due to manual lifting.
 author: Flaaim
 post_image: Safe_Work_Practices_Manual_Lifting.png
+categories: SWP
 ---
 
 1. Rule of Thumb: Look up as you lift!

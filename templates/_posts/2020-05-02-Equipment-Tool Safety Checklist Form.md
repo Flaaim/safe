@@ -4,6 +4,7 @@ title: Equipment/Tool Safety Checklist Form
 description: Equipment/Tool Safety Checklist Form template 
 author: Flaaim
 post_image: equipment-tool-safety-checklist.png
+categories: Checklist
 ---
 ![Equipment/Tool Safety Checklist Form](https://safetyworkblog.com/assets/img/equipment-tool-safety-checklist.png)
 

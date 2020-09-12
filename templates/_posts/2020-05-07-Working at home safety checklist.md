@@ -4,6 +4,7 @@ title: Working at home safety checklist
 description: Working at home safety checklist. It is the policy of the [Company] to ensure that each homeworker has a safe environment from which to work and that <Company> provided equipment should not cause health and safety concerns for the member of staff.
 author: Flaaim
 post_image: Working_at_home_safety_checklist.png
+categories: Checklist
 ---
 
 1.	It is the policy of the [Company] to ensure that each homeworker has a safe environment from which to work and that <Company> provided equipment should not cause health and safety concerns for the member of staff. 

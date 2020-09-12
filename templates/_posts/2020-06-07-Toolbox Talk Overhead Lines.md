@@ -4,6 +4,7 @@ title: Toolbox Talk Overhead Lines
 description: Accidental contact with live overhead power lines causes many serious injuries and fatalities. These accidents are particularly related to cranes and excavators, but tipping wagons, scaffold tubes and metal ladders have all been in contact with overhead cables, with fatal results.
 author: Flaaim
 post_image: Toolbox_Talk_Overhead_Lines.png
+categories: [Toolbox Talk]
 ---
 
 

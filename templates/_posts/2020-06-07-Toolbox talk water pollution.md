@@ -4,6 +4,7 @@ title: Toolbox talk water pollution
 description: It is vital to manage water properly on site to protect our environment. If watercourses are polluted, or unacceptable wastes are disposed of to a sewer system, you or the company may end up in court.
 author: Flaaim
 post_image: Toolbox_talk_water_pollution.png
+categories: [Toolbox Talk]
 ---
 
 It is vital to manage water properly on site to protect our environment. If watercourses are polluted, or unacceptable wastes are disposed of to a sewer system, you or the company may end up in court. Industries using water from a river downstream of site may be affected by reduced water quality and sue if this causes damage. The site does not need to be next to a river to cause a problem. Any pollutants getting into a surface water drain or groundwater can end up in a river even if it is miles away. These pollutants can be traced back to source. Spillages can be easily noticed. A gallon of oil can completely cover a lake the size of two football pitches.

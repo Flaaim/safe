@@ -4,6 +4,7 @@ title: Building Site Induction Checklist
 description: Building Site Induction Checklist.
 author: Flaaim
 post_image: Building-Site-Induction-Checklist.png
+categories: Checklist
 ---
 
 ## Induction Checklist 

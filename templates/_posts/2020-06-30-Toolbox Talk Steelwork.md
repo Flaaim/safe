@@ -4,6 +4,7 @@ title: Toolbox Talk Steelwork
 description: Toolbox Talk Steelwork. Steelwork carries with it significant inherent risk, both to those erecting steelwork, and to those in the vicinity. Only safe systems of work can control these risks and reduce them to an acceptable level.
 author: Flaaim
 post_image: Toolbox_Talk_Steelwork.png
+categories: [Toolbox Talk] 
 ---
 
 

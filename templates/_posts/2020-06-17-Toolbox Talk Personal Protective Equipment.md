@@ -4,6 +4,7 @@ title: Toolbox Talk Personal Protective Equipment
 description: Toolbox Talk Personal Protective Equipment
 author: Flaaim
 post_image: Toolbox_Talk_Personal_Protective_Equipment.png
+categories: [Toolbox Talk]
 ---
 
 ### Topic: Personal Protective Equipment Checklist

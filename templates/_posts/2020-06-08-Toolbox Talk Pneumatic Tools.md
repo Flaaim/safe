@@ -4,6 +4,7 @@ title: Toolbox Talk Pneumatic Tools
 description: Toolbox Talk Pneumatic Tools.Pneumatic tools are powered by compressed air. Common types of these air-powered hand tools are road and concrete breakers, vibrating pokers and cleaning lances, most likely supplied by a tow able compressor.
 author: Flaaim
 post_image: Toolbox_Talk_Pneumatic_Tools.png
+categories: [Toolbox Talk]
 ---
 
 ## What are pneumatic tools?

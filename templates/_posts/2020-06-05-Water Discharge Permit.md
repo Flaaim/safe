@@ -4,6 +4,7 @@ title: Water Discharge Permit
 description: Water Discharge Permit
 post_image: Water_Discharge_Permit1.png
 author: Flaaim
+categories: Permit
 ---
 
 ![Water Discharge Permit](https://safetyworkblog.com/assets/img/Water_Discharge_Permit1.png)

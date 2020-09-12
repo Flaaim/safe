@@ -4,6 +4,7 @@ title: Electrical Safety Do's and Don'ts Checklist
 description: Electrical Safety Do's and Don'ts Checklist
 author: Flaaim
 post_image: electrical_safety_do_and_dont_checlist.png
+categories: Checklist
 ---
 
 ## DO:

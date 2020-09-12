@@ -4,6 +4,7 @@ title: Personal Protective Equipment Policy
 description: The Personal Protective Equipment at Work Regulations 1992 (as amended) impose a duty on employers to provide, assess, maintain personal protective equipment (PPE) and instruct their employees in the correct use and storage of it.
 author: Flaaim
 post_image: Persona-Protective-Equipment-Policy.png
+categories: Policy
 ---
 
 ## 1. Introduction

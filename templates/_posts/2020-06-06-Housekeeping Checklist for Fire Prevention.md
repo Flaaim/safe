@@ -4,6 +4,7 @@ title: Housekeeping Checklist for Fire Prevention
 description: Good housekeeping is an important part of reducing the fire risk of a property. Accumulations of combustible scrap materials and trash can provide a fuel source and contribute to fire development.
 author: Flaaim
 post_image: Housekeeping_Checklist_for_Fire_Prevention.png
+categories: Checklist
 ---
 
 

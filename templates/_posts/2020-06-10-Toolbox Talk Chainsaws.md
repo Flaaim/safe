@@ -4,6 +4,7 @@ title: Toolbox Talk Chainsaws
 description: Chainsaws are increasingly used within the construction industry, often in a manner for which they were not originally designed. They are particularly dangerous and can cause serious injury, even in the hands of a trained operator
 author: Flaaim
 post_image: Toolbox_Talk_Chainsaws.png
+categories: [Toolbox Talk]
 ---
 
 Chainsaws are increasingly used within the construction industry, often in a manner for which they were not originally designed. They are particularly dangerous and can cause serious injury, even in the hands of a trained operator

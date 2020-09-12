@@ -4,6 +4,7 @@ title: Health and Safety Policy for Non-English Speaking Employees
 description: Health and Safety Policy for Non-English Speaking Employees. This Policy should be read in conjunction with the main Company Health and Safety Policies
 author: Flaaim
 post_image: Health-and-Safety-Policy-for-Non-1.png
+categories: Policy
 ---
 
 

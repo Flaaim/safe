@@ -4,6 +4,7 @@ title: Working at Home Health and Safety Policy
 description: Working at Home Health and Safety Policy. This Policy should be read in conjunction with the main Company Health and Safety Policies
 author: Flaaim
 post_image: Working-at-Home-Health-and-Safety_Policy-1.png
+categories: Policy
 ---
 
 

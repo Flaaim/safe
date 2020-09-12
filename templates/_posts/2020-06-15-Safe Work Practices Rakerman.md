@@ -4,6 +4,7 @@ title: Safe Work Practices Rakerman
 description: Rakerman safety. Inspect tools prior to use each shift. Ensure the ends are protected and handles are not bent or broken. If defects are found, report to the Supervisor and remove from service
 author: Flaaim
 post_image: Safe_Work_Practices_Rakerman.png
+categories: SWP
 ---
 
 1. Inspect tools prior to use each shift. Ensure the ends are protected and handles are not bent or broken. If defects are found, report to the Supervisor and remove from service.

@@ -4,6 +4,7 @@ title: (COSHH) Policy
 description: (COSHH) Policy. The Control of Substances Hazardous to Health (COSHH) Regulations 2002 (as amended) applies to any substance or material that may cause harm to the user or anyone else exposed to it.
 author: Flaaim
 post_image: (COSHH)_Policy.png
+categories: Policy
 ---
 
 ## 1. Introduction 

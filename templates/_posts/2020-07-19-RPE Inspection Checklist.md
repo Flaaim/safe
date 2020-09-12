@@ -4,6 +4,7 @@ title: RPE Inspection Checklist
 description: Inspection and maintenance is a requirement for all RPE except for disposable types and should be carried out by properly trained personnel. Thorough maintenance, examination and tests should be carried out at least once a month
 author: Flaaim
 post_image: RPE_Monthly_Inspection_Checklist.png
+categories: Checklist
 ---
 
 Inspection and maintenance is a requirement for all RPE except for disposable types and should be carried out by properly trained personnel. Thorough maintenance, examination and tests should be carried out at least once a month. However, if the RPE is used only occasionally, an examination and test should be carried out before use and, in any event, the interval should not exceed three months.

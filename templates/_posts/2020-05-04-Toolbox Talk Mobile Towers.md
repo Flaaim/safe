@@ -4,6 +4,7 @@ title: Toolbox Talk Mobile Towers
 description: Toolbox Talk Mobile Towers. Mobile tower scaffolds provide a very useful and efficient working platform for numerous tasks when used properly.
 author: Flaaim
 post_image: Toolbox-Talk-Mobile-Towers.png
+categories: [Toolbox Talk]
 ---
 
 

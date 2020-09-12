@@ -4,6 +4,7 @@ title: Toolbox talk noise pollution
 description: Excessive noise levels on site represent a major hazard to site workers and can annoy neighbours. Noise causes more off-site complaints than any other topic and can rapidly sour relations.
 author: Flaaim
 post_image: Toolbox_talk_noise_pollution.png
+categories: [Toolbox Talk]
 ---
 
 Excessive noise levels on site represent a major hazard to site workers and can annoy neighbours. Noise causes more off-site complaints than any other topic and can rapidly sour relations. Noise can also disturb our wildlife and natural heritage. It is not only loud noises that cause complaint, but also anti-social activity and irregular or tonal noises such as reversing sirens. Other complaints include shouting, swearing, radios and out of hours deliveries. Some construction activities that cause the greatest problems are; pneumatic tools, petrol driven saws, traffic. Therefore we must have in place a plan to avoid excessive noise levels emitting from our work activities

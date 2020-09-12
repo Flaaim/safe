@@ -4,6 +4,7 @@ title: Toolbox Talk Leptospirosis
 description: Toolbox Talk Leptospirosis.There are two types of leptospirosis infections that can affect workers within the UK
 author: Flaaim
 post_image: Toolbox_Talk_Leptospirosis.png
+categories: [Toolbox Talk]
 ---
 
 There are two types of leptospirosis infections that can affect workers within the UK:

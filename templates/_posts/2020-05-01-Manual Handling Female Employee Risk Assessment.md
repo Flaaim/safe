@@ -4,6 +4,7 @@ title: Manual Handling Female Employee Risk Assessment
 description: Manual Handling Female Employee Risk Assessment Report (MHRA). 
 author: Flaaim
 post_image: Manual-Handling-Female-Employee-Risk-Assessment-Report-1.png
+categories: [Risk Assessment]
 ---
 
 

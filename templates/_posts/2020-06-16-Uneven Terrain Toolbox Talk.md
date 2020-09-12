@@ -4,6 +4,7 @@ title: Uneven Terrain Toolbox Talk
 description: Uneven terrain is often a hazard that is overlooked, because many feel that there are many other dangerous hazards present on the work-site.  However, each and every year, there are several injuries to ankles and knees due to uneven terrain.  What are some of the culprits that many of us may take for granted
 author: Flaaim
 post_image: Uneven_Terrain_Toolbox_Talk.png
+categories: [Toolbox Talk]
 ---
 
 ### Beware of Uneven Terrain

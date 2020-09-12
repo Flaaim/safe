@@ -4,6 +4,7 @@ title: Safe Work Practices Working Around Heavy Equipment
 description: Safe Work Practices Working Around Heavy Equipment. To identify the possible hazards and ensure that all personnel are well  aware of the procedures when working around all heavy equipment.
 author: Flaaim
 post_image: Safe_Work-Practices_Working_Around_Heavy_Equipment.png
+categories: SWP
 ---
 
 ## 1. Purpose	
