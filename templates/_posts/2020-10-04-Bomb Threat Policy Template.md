@@ -3,7 +3,7 @@ layout: post_template
 title: Bomb Threat Policy Template
 description: Bomb Threat Policy Template
 author: Flaaim
-post_image: Bomb Threat Policy.png
+post_image: Bomb-Threat-Policy.png
 categories: [Policy]
 ---
 
@@ -90,6 +90,6 @@ Note: - The decision to evacuate or search must be made by the Site General Mana
 6.2.2.	All personnel to assemble at the designated muster point and await instructions
 6.2.3.	Do not allow entry or re-entry into the building until given approval by the Police or Bomb Disposal Officers
 
-[Bomb Threat Policy](https://safetyworkblog.com/assets/img/Bomb-Threat-Policy.png)
+![Bomb Threat Policy](https://safetyworkblog.com/assets/img/Bomb-Threat-Policy.png)
 
 [Bomb Threat Policy](https://safetyworkblog.com/assets/template/Bomb-Threat-Policy.docx)
