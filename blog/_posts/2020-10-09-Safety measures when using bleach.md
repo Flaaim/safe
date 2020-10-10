@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Safety measures when using bleach
-description: Bleach, also known as "chlorine bleach", is a common, powerful cleaning agent found in most homes. It is primarily used as an additive for laundry detergents in whitening clothes and sheets.
+description: Bleach, also known as chlorine bleach, is a common, powerful cleaning agent found in most homes. It is primarily used as an additive for laundry detergents in whitening clothes and sheets.
 author: Flaaim
 post_image: bleach-kitchen-cleaning.jpg
 categories: [Safety]
