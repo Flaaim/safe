@@ -61,6 +61,7 @@
         
 </div>
          {% for category in site.categories %}
+           {% capture category_name %}{{ category | first }}{% endcapture %}
              <h3 class="category-head">{{ category_name }}</h3>
           {% endfor %}
     </main>
