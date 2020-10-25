@@ -60,7 +60,9 @@
         
         
 </div>
-      
+         {% for category in site.categories %}
+             <h3 class="category-head">{{ category_name }}</h3>
+          {% endfor %}
     </main>
     {% include footer.html %}
   </body>
