@@ -9,612 +9,962 @@
 
 <url>
   <loc>https://safetyworkblog.com/</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/categories/</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/infographics</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/templates</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/ppe/2020/10/25/personal-protective-equipment-for-butchers</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/ppe/2020/10/19/personal-protective-equipment-for-mold-removal</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/safety/2020/10/17/safety-precautions-when-working-with-ethanol</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/safety/2020/10/09/safety-measures-when-using-bleach</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/safety%20precautions/2020/09/30/bunsen-burner-safety-precautions</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/10/04/work-travel-checklist</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/policy/2020/10/04/bomb-threat-policy-template</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/07/19/rpe-inspection-checklist</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/risk%20assessment/2020/07/11/tree-surgery-risk-assessment</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/risk%20assessment/2020/07/10/guillotine-risk-assessment</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/infographics/2020/06/02/hot-work-types-and-hazards</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/infographics/2020/06/01/car-fire-safety</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/infographics/2020/05/28/when-to-wear-a-mask</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/infographics/2020/05/27/shisha-smoking-facts</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/infographics/2020/05/27/alcohol-and-covid-19</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/safety%20precautions/2020/09/24/safety-precautions-when-working-with-flammable-materials</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/safety/2020/09/19/personal-safety-for-social-workers</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/safety/2020/09/16/personal-safety-devices-for-lone-workers</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/safety/2020/09/12/healthcare-lone-worker-safety</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/ppe/2020/08/26/personal-protective-equipment-for-sanitation-workers</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/2020/08/17/things-to-remember-for-laundry-workers-regarding-ppe</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/2020/08/13/why-is-personal-protective-equipment-for-restaurants-essential</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/2020/08/07/radiology-personal-protective-equipment</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/2020/07/31/personal-protective-equipment-for-lifeguards</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/2020/07/24/personal-protective-equipment-in-garment-industry</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/2020/07/23/personal-protective-equipment-for-pesticide-applicators</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/ppe/2020/07/18/essential-personal-protective-equipment-for-plumber-and-their-benefits</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/ppe/2020/07/11/personal-protective-equipment-for-carpentry</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/blog/ppe/2020/07/10/ppe-in-microbiology-laboratories-a-complete-safety-list</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/2020/06/05/construction-housekeeping-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/safety/2020/06/04/playground-safety-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/safety/2020/06/03/health-and-safety-representative-inspection-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/safety/2020/06/03/hse-management-system-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/safety/2020/06/02/health-and-safety-rules-for-soldering</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/ppe/2020/05/25/all-about-protective-gear-for-roofers</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/safety%20tips/2020/05/23/forklift-safety</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/ppe/2020/05/21/personal-protective-equipment-for-dog-grooming</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/ppe/2020/05/09/personal-protective-equipment-in-childcare</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/ppe/2020/05/09/personal-protective-equipment-for-gardening</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/safety%20tips/2020/05/08/safety-precautions-when-working-with-construction-materials</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/ppe/2020/05/05/personal-protective-equipment-in-the-dental-practice</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/ppe/2020/04/26/personal-protective-equipment-in-zoos</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/workplace%20safety/2020/04/22/tips-and-rules-to-crane-safety-work-around-power-lines</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/ppe/2020/04/20/personal-protective-equipment-in-the-cookery</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/safety%20tips/2020/04/19/tips-how-to-safely-store-gas-cylinders</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/safety%20tips/2020/04/19/heavy-equipment-operator-safety-tips</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/workplace%20safety/2020/04/15/list-of-chemical-plant-safety-topics</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/ppe/2020/04/14/personal-protective-equipment-for-working-with-pesticides</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/workplace%20safety/2020/04/13/car-washes-safety</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/ppe/2020/04/12/personal-protective-equipment-in-veterinary-practice</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/workplace%20safety/2020/04/12/drilling-machine-safety-precautions</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/ppe/2020/04/11/ppe-for-working-with-acid</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/ppe/2020/04/11/car-painting-ppe-equipment</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/ppe/2020/04/10/personal-protective-equipment-in-hospitality</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/blog/ppe/2020/04/08/personal-protective-equipment-in-a-beauty-salon</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://safetyworkblog.com/templates/2020/06/08/toolbox-talk-pneumatic-tools</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/08/toolbox-talk-leptospirosis</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/07/10/flammable-liquids-toolbox-talk</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/08/toolbox-talk-excavation-safety</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/07/09/accident-prevention-toolbox-talk</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/08/talk-storage-and-use-of-fuels-and-oils</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/30/toolbox-talk-steelwork</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/07/toolbox-talk-water-pollution</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/policy/2020/06/28/office-environmental-policy</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/07/toolbox-talk-noise-pollution</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/policy/2020/06/28/construction-environmental-policy</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/07/toolbox-talk-dust,-emissions-and-odours-pollution</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/swp/2020/06/18/safe-work-practices-rolling-asphalt</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/07/toolbox-talk-overhead-lines</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/17/toolbox-talk-personal-protective-equipment</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/06/working-in-public-toolbox-talk</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/16/uneven-terrain-toolbox-talk</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/06/toolbox-talk-waste</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/16/emergency-preparedness-toolbox-talk</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/06/housekeeping-checklist-for-fire-prevention</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/swp/2020/06/15/safe-work-practices-working-around-heavy-equipment</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/06/dust-from-cut-off-saw-toolbox-talk</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/swp/2020/06/15/safe-work-practices-rakerman</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/05/water-discharge-permit</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/swp/2020/06/14/safe_work_practices_open_holes</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/05/rams-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/swp/2020/06/13/safe-work-practices-spray-painting</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/05/excavation-permit-to-work-template</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/swp/2020/06/13/safe-work-practices-manual-lifting</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/05/electrical-equipment-safety-inspection-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/swp/2020/06/13/safe-work-practice-cut-off-saws</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/04/kitchen-daily-cleaning-schedule-record-sheet</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/13/avoiding-heat-stress-toolbox-talk</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/04/fall-arrest-system-inspection-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/12/cell-phone-use-in-construction-sites-toolbox-talk</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/04/construction-stop-work-form</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/11/toolbox-talk-cut-off-saw</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/10/trailer-safety-toolbox-talk</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/10/toolbox-talk-shift-work</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/10/toolbox-talk-propane-tanks-safety</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/10/toolbox-talk-chainsaws</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/09/toolbox-talk-eye-protection</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/09/toolbox-talk-existing-services</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/08/toolbox-talk-suspension-trauma</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/08/toolbox-talk-pneumatic-tools</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/08/toolbox-talk-plant-movement-and-reversing</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/08/toolbox-talk-manual-handling</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/08/toolbox-talk-leptospirosis</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/08/toolbox-talk-excavation-safety</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/08/talk-storage-and-use-of-fuels-and-oils</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/07/toolbox-talk-water-pollution</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/07/toolbox-talk-noise-pollution</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/07/toolbox-talk-dust,-emissions-and-odours-pollution</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/07/toolbox-talk-overhead-lines</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/06/working-in-public-toolbox-talk</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/06/toolbox-talk-waste</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/06/06/housekeeping-checklist-for-fire-prevention</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/06/dust-from-cut-off-saw-toolbox-talk</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/permit/2020/06/05/water-discharge-permit</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/06/05/rams-checklist</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/permit/2020/06/05/excavation-permit-to-work-template</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/06/05/electrical-equipment-safety-inspection-checklist</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/sheet/2020/06/04/kitchen-daily-cleaning-schedule-record-sheet</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/06/04/fall-arrest-system-inspection-checklist</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/templates/form/2020/06/04/construction-stop-work-form</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/templates/2020/06/04/construction-site-safety-rules-sample</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/04/confined-space-entry-permit-template</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/permit/2020/06/04/confined-space-entry-permit-template</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/04/chemical-substances-(coshh)-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/06/04/chemical-substances-(coshh)-checklist</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/03/rail-crane-inspection-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/06/03/rail-crane-inspection-checklist</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/03/mobile-crane-daily-inspection-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/06/03/mobile-crane-daily-inspection-checklist</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/03/checklist-to-manage-chemical-hazards</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/06/03/checklist-to-manage-chemical-hazards</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/01/construction-company-health-and-safety-policy-statement</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/06/01/construction-company-health-and-safety-policy-statement</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/06/01/confined-space-toolbox-talk</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/06/01/confined-space-toolbox-talk</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/17/toolbox-talk-trenching</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/05/17/toolbox-talk-trenching</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/17/childcare-hand-washing-policy</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/policy/2020/05/17/childcare-hand-washing-policy</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/17/(coshh)-policy</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/policy/2020/05/17/(coshh)-policy</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/templates/2020/05/16/daily-cleaning-records-template</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/16/alcohol-policy-template</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/policy/2020/05/16/alcohol-policy-template</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/09/hygiene-policy-for-childcare-provision</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/policy/2020/05/09/hygiene-policy-for-childcare-provision</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/08/restaurant-health-and-safety-statement</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/statement/2020/05/08/restaurant-health-and-safety-statement</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/07/working-at-home-safety-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/05/07/working-at-home-safety-checklist</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/07/automotive-workshop-environmental-policy</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/policy/2020/05/07/automotive-workshop-environmental-policy</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/06/smoke-free-policy-template</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/policy/2020/05/06/smoke-free-policy-template</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/06/laminator-risk-assessment-form</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/risk%20assessment/2020/05/06/laminator-risk-assessment-form</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/04/weekly-vehicle-safety-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/05/04/weekly-vehicle-safety-checklist</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/04/toolbox-talk-mobile-towers</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/toolbox%20talk/2020/05/04/toolbox-talk-mobile-towers</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/templates/2020/05/04/fire-safety-procedures</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/02/equipment-tool-safety-checklist-form</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/05/02/equipment-tool-safety-checklist-form</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/01/working-at-home-health-and-safety-policy</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/policy/2020/05/01/working-at-home-health-and-safety-policy</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/01/manual-handling-policy-template</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/policy/2020/05/01/manual-handling-policy-template</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/01/manual-handling-female-employee-risk-assessment</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/risk%20assessment/2020/05/01/manual-handling-female-employee-risk-assessment</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/01/health-and-safety-policy-for-non-english-speaking-employees</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/policy/2020/05/01/health-and-safety-policy-for-non-english-speaking-employees</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/01/company-safe-driving-policy</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/policy/2020/05/01/company-safe-driving-policy</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/05/01/building-site-induction-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/05/01/building-site-induction-checklist</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/04/24/electrical-safety-do's-and-don'ts-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/04/24/electrical-safety-do's-and-don'ts-checklist</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/04/19/personal-protective-equipment-policy</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/policy/2020/04/19/personal-protective-equipment-policy</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://safetyworkblog.com/templates/2020/04/16/safety-harness-inspection-checklist</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://safetyworkblog.com/infographics/2020/06/02/hot-work-types-and-hazards</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://safetyworkblog.com/infographics/2020/06/01/car-fire-safety</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://safetyworkblog.com/infographics/2020/05/28/when-to-wear-a-mask</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://safetyworkblog.com/infographics/2020/05/27/shisha-smoking-facts</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://safetyworkblog.com/infographics/2020/05/27/alcohol-and-covid-19-what-you-need-to-know</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <loc>https://safetyworkblog.com/templates/checklist/2020/04/16/safety-harness-inspection-checklist</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/infographics/2020/05/24/six-steps-to-prevent-covid-19</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/infographics/2020/05/24/covid-19-prevention-tips</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/infographics/2020/05/24/coronavirus-2019-ncov</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/infographics/2020/05/23/gas-cylinders-storage-safety</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/infographics/2020/05/17/covid-19-prevention-tips</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://safetyworkblog.com/assets/template/Work-Travel-Checklist.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Bomb-Threat-Policy.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/RPE_Monthly_Inspection_Checklist.pdf</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Tree_surgery_risk_assessment.pdf</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Guillotine_risk_assessment_form.pdf</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Uneven_Terrain_Toolbox_Talk.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Emergency_Preparedness_Toolbox_Talk.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Avoiding_Heat_Stress_Toolbox_Talk.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Cell_Phones.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Cut_Off_Saw.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Trailer_Safety_Toolbox_Talk.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Shift_Work.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Propane_Tank_Safety.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Chainsaws.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Eye_Protection.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Existing_Services.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Suspension_Trauma.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Pneumatic_Tools.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Plant_Movement_and_Reversing.docx</loc>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Leptospirosis.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Excavation_Safety.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Storage_and_use_of_Fuels_and_Oils.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Toolbox_talk_water_pollution.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Toolbox_talk_noise_pollution.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Toolbox_talk_dust_emissions_and_odours_pollution.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Overhead_Lines.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Working_in_Public_Toolbox_Talk.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Toolbox_Talk_Waste.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Housekeeping_Checklist_for_Fire_Prevention.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Dust_From_Cut-Off_Saw_Toolbox_Talk.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Water_Discharge_Permit1.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Rams_checklist.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Excavation_permit_to_work_template.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Electrica_equipment_safety_inspection_checklist.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Kitchen_Daily_Cleaning_Schedule_Record_Sheet.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Fall_Arrest_System_Inspection_Checklist.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Construction_stop_work_form.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Construction_site_safety_rules_sample.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Confined_Space_Entry_Permit_Template.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Chemical_Substances_(COSHH)_Checklist.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Mobile_crane_daily_inspection_checklist.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Checklist_to_manage_chemical_hazards.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Daily_Cleaning_Records.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/laminator-risk-assessment-form.pdf</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Weekly-Vehicle-Safety-Checklist.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/equipment-tool-safety-checklist.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Manual%20Handling%20Female%20Employee%20Risk%20Assessment%20Report.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Building%20Site%20Induction%20Checklist.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://safetyworkblog.com/assets/template/Harness%20Checklist%20.docx</loc>
-  <lastmod>2020-06-08T05:08:45+00:00</lastmod>
+  <lastmod>2020-10-26T05:20:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
