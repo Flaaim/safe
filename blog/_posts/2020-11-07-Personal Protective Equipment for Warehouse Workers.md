@@ -12,7 +12,7 @@ In this world, accidents occur a lot of times, and sadly, most of them produce s
 However, you can reduce the risk and impact of these accidents by using some of the PPE or Personal Protective Equipment that is recommended for warehouse workers, the good thing about this equipment is the fact that it will protect almost every single part of your body from almost any danger, the damage that your head could suffer due to the lack of protection, your skin will be safe while manipulating sharp objects, and so many things like that, stay tuned to learn more about everything.
 
 ## Equipment for the Protection of the Head:
-![Personal Protective Equipment for Warehouse Workers](https://safetyworkblog.com/assets/millennial-warehouse-workers-full)
+![Personal Protective Equipment for Warehouse Workers](https://safetyworkblog.com/assets/millennial-warehouse-workers-full.jpg)
 
 First of all, we have the irreplaceable piece of equipment that is the one that provides major protection for your skull and brain, yes, we are talking about a hard hat that is practically the workers; more valuable possession since a lot of accidents have been prevented or reduced thanks to the usage of these helmets that can be a little annoying at the beginning, but once you get used to it, you will be very grateful towards your decision of using it, however, this doesn't mean that your skull will be 100% protected, for that reason always mind your steps and be careful.
 
