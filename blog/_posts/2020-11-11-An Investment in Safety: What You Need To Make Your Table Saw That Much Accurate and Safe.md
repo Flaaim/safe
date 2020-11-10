@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Investment in Safety: What You Need To Make Your Table Saw That Much Accurate and Safe
+title: An Investment in Safety What You Need To Make Your Table Saw That Much Accurate and Safe
 description: An investment in Table saw safety should be a craftsmanship's main priority before beginning any project. Don't take it from us, there are plenty of tales of near misses and trips to the emergency room, simply walk into any type of hardware store, and you'll be sure to hear one.
 author: Flaaim
 post_image: 011233030_tablesaw-safety-main.jpg
