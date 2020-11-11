@@ -220,6 +220,6 @@ FORM TO BE HANDED TO THE CONSTRUCTION DEPARTMENT UPON COMPLETION
 </tbody>
 </table>
 
-![Construction Company First Aid Box Checklist Form](https://safetyworkblog.com/assets/template/img/184f9c6e54fbee6f5ef00426bc6e5cef.jpg)
+![Construction Company First Aid Box Checklist Form](https://safetyworkblog.com/assets/img/184f9c6e54fbee6f5ef00426bc6e5cef.jpg)
 
 [Download](https://safetyworkblog.com/assets/template/Construction_Company_First_Aid_Box_Checklist_Form.docx)
