@@ -4,7 +4,7 @@ title: Construction Company Health and Safety Policy Statement
 description: Small Construction Company Health and Safety Policy Statement Template
 author: Flaaim
 post_image: Construction_Company_Health_and_Safety_Policy_Statement.png
-categories: Checklist
+categories: Policy
 ---
 
 ## Health and Safety Policy Statement
