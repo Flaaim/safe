@@ -12,7 +12,7 @@ categories: [Safety]
 An investment in Table saw safety should be a craftsmanship's main priority before beginning any project. Don't take it from us, there are plenty of tales of near misses and trips to the emergency room, simply walk into any type of hardware store, and you'll be sure to hear one. A Table saw safety accessories also don't just protect you from a potential accident but improves your project completion and quality time as your confidence in the handling and safety of your table saw accessories would significantly improve. The following are a few of our top table saw safety accessories to invest in.
 
 ## Grip-Tite Featherboard
-![Table saw safety](https:/safetyworkblog.com/assets/011233030_tablesaw-safety-main.jpg)
+
 
 A Grip-Tite Featherboard is essentially the equivalent of growing another set of hands. Many of the horror stories of people losing fingers are often caused by the accidental slipping of the finger into the blade when adjusting a piece of wood. The accessory allows one to safely put pressure on the piece of wood onto the fence of the table saw from a distance without losing accuracy. Most of these tools are made to grip with strong magnets that make them easy to assemble or move onto another type of saw.
 
