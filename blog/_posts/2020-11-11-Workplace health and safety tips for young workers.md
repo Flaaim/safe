@@ -3,7 +3,7 @@ layout: post
 title: Workplace Health And Safety Tips For Young Workers
 description: Employers must always consider the employee’s welfare when setting up a work station. This wellbeing is primarily for young workers who are prone to work-related injuries and fatalities. According to a research done by the Association of Workers Compensation Boards of Canada in 2012, more than 50 workers aged between 15 and 24 die each year due to work-related injuries, and more than 32, 106 survive the injuries.
 author: Flaaim
-post_image:  
+post_image: Young-Workers-Lo-Res.jpg
 categories: [Safety]
 ---
 
@@ -14,7 +14,7 @@ With these statistics, it’s evident that there is a need for employers to focu
 In this article, I will inform you of health and safety tips for young workers which can help reduce work-related fatalities.
 
 ## 1. A young employee must ensure he/she is safe
-![](https://safetyworkblog.com/assets/)
+![Workplace Health And Safety Tips For Young Workers](https://safetyworkblog.com/assets/Young-Workers-Lo-Res.jpg)
 Employees must always look after themselves to ensure nothing goes wrong at the workplace. I know everybody does that, but don’t you think if you are vigilant we can overcome the accidents at workplaces? Let’s see how you can look after yourself at work with the right workplace safety tips for young workers:
 
 - Follow all instructions as advised by your employer
