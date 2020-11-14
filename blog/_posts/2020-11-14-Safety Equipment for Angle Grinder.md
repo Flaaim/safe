@@ -4,7 +4,7 @@ title: Safety Equipment for Angle Grinder
 description: Safety Equipment for Angle Grinder.As a lot of people knows, grinding is not a safe activity since a razor-sharp wheel that is cutting at 6500RPM is never going to be safe
 author: Flaaim
 post_image: How-To-Use-An-Angle-Grinder01.jpg
-categories: [Safety]
+categories: [Safety Equipment]
 ---
 
 As a lot of people knows, grinding is not a safe activity since a razor-sharp wheel that is cutting at 6500RPM is never going to be safe, remember that a lot of things will make contact with your body, ashes, parts of steel or metal that will be cut and even those small particles can be dangerous to your skin, for that reason, one should never think of taking shortcuts in these kinds of activities since in angle grinder is almost prohibited the usage of bigger blades that the tool is designed for and also, you should know your limits, don't try to rush the procedure and take some short breaks.
