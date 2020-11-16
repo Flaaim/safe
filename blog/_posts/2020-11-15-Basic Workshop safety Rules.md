@@ -14,7 +14,7 @@ Many accidents and injuries are avoidable and often happen because the basic rul
 ## Basic workshop safety rules
 
 ### In all workshops there are certain things you MUST NOT DO: 
-![Basic Workshop Safety Rules](https://safetyworkblog.com/assets/home-woodshop-1)
+![Basic Workshop Safety Rules](https://safetyworkblog.com/assets/home-woodshop-1.jpg)
 1. Don’t run in the workshop.
 2. Don’t mess around in the workshop.
 3. Never cut corners OR DO ANYTHING UNSAFE.
