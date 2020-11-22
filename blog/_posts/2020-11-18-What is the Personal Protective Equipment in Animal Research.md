@@ -3,7 +3,7 @@ layout: post
 title: What is the Personal Protective Equipment in Animal Research?
 description: Personal Protective Equipment in Animal Research. Animal research has been used for multiple purposes around the years such as the creation of medicines, vaccines or even to acquire more knowledge about the nervous system of animals and establish a relation between humans
 author: Flaaim
-post_image: ppe-for-working-in-a-biosafety-laboratory-m.jpg.jpg
+post_image: ppe-for-working-in-a-biosafety-laboratory-m.jpg
 categories: [PPE]
 ---
 
