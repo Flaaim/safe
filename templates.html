@@ -19,7 +19,7 @@ title: Templates
 	<div class="row template">
 {% for post in site.categories.Checklist %}
 		<div class="column _30template">
-			<div class="box_template"><img class="img-template" src="{{ site.baseurl }}/assets/img/{{ post.post_image }}"><div class="box-title"><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></div>
+			<div class="box_template"><div class="box-title"><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></div>
 			</div>
 		</div>
 		{% endfor %}	
