@@ -14,6 +14,7 @@ Personal protective equipment (PPE) is any piece of equipment that is intended t
 The personal protective equipment protects all parts of the body from head to toe, depending on the professional environment, such as head and face protection, respiratory protection, safety clothing and gloves to foot protection. Every organization, regardless of production volume, must comply with established hygiene and sanitary standards.
 
 ![Personal Protective Equipment for Housekeeping Staff](https://safetyworkblog/assets/Cleaning-Team.jpg)
+
 ## Respirators
 
 The most common pieces of personal protective equipment used to handle the disaster are respirators. These are masks, filtering face pieces, self-contained breathing apparatus. Many companies require their employees to use them for protecting their facial area as well as their air supply when working with dangerous chemicals or in the case of other potential airborne diseases.
