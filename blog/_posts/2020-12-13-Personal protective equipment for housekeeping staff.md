@@ -13,7 +13,7 @@ Personal protective equipment (PPE) is any piece of equipment that is intended t
 
 The personal protective equipment protects all parts of the body from head to toe, depending on the professional environment, such as head and face protection, respiratory protection, safety clothing and gloves to foot protection. Every organization, regardless of production volume, must comply with established hygiene and sanitary standards.
 
-![Personal Protective Equipment for Housekeeping Staff](https://safetyworkblog/assets/Cleaning-Team.jpg)
+![Personal Protective Equipment for Housekeeping Staff](https://safetyworkblog.com/assets/Cleaning-Team.jpg)
 
 ## Respirators
 
