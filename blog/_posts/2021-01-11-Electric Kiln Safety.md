@@ -17,7 +17,7 @@ Due to the outer surface of a kiln becoming extremely hot, having the proper pro
 - Dark Safety goggles: The safety goggles will prevent heat from affecting you as you glance through a spy hole. These will also provide you with the adequate protection as opposed to other sunglasses and you will be able to view the cone packs.
 - Kiln gloves: You need to wear your kiln gloves while in contact with the kiln, during the firing, and during its cooling. It is also a good idea to keep them on even if their power is turned off, as they remain hot for a while afterwards.
 
-Ventilation of a Kiln
+## Ventilation of a Kiln
 
 No matter what type of kiln you utilize, it should have proper ventilation. If not, then the toxic fumes can cause serious health issues or even death. To ensure proper ventilation, take the following into consideration:
 
