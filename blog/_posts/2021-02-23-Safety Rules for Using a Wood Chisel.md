@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Safety Rules for Using a Wood Chisel
-description: The Wood Chisel and Safety. A wood chisel is a cutting tool. It often has a cutting edge and it has different uses:
+description: The Wood Chisel and Safety. A wood chisel is a cutting tool. It often has a cutting edge and it has different uses
 author: Flaaim
 post_image: The-Best-Wood-Chisels-for-Woodworking-and-Carving.jpg
 categories: [Safety]
