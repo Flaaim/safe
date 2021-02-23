@@ -17,7 +17,7 @@ A wood chisel is a cutting tool. It often has a cutting edge and it has differen
 - shaping material
 - chiseling
 - various other uses
-- 
+
 ![Safety Rules for Using a Wood Chisel](https://safetyworkblog.com/assets/The-Best-Wood-Chisels-for-Woodworking-and-Carving.jpg)
 
 Safety rules do apply with this tool because it does have a sharp blade. The woodworking chisel comes in various sizes. There are different types of wood chisels and each will have a standard set of safety rules to adhere to. A chisel is often used like a screwdriver. Safety is necessary because the chisel could potentially fly off and break which does pose safety issues.
