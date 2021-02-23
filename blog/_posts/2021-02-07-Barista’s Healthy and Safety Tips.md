@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Barista’s Healthy and Safety Tips
+title: Barista’s Health and Safety Tips
 description: Barista’s Healthy and Safety Tips. A barista works for long hours in a shift, and so the job demands a lot from him or her.
 author: Flaaim
 post_image: barista-resume.jpg
