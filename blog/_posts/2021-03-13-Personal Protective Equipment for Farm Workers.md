@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personal Protective Equipment for Farm Workers
-description: Some farm tasks involve handling hazardous materials and chemicals, hence should be done while wearing protective clothing.
+description: PPE: Personal Protective Clothing, Full-brimmed Hat and Goggles, Dust Masks, Ear Plugs, Foot Protection.
 author: Flaaim
 post_image: agri.jpg
 categories: [PPE]
