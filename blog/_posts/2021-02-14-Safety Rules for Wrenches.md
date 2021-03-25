@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Safety Rules for Wrenches
-description: Wrenches and safety rules are a necessary combination if avoiding injuries is one of the project goals.
+description: Rules: do not skimp on quality, never add leverage, do not hit or strike a wrench with a hammer, a wrench should be maintained and clean, do not push on a wrench, be sure the size if the wrench reflects the job, replace a damaged wrench, clean and maintained.
 author: Flaaim
 post_image: Workman-wrench-bolt.jpg
 categories: [Safety Rules]
