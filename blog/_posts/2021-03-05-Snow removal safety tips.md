@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snow Removal Safety Tips
-description: Removing snow from your property once it stops snowing is an action most people take to ensure their safety and the safety of others.
+description: Things You Should Do and Things You Should Avoid Doing
 author: Flaaim
 post_image: snow-3146420_1920.jpg
 categories: [Safety Tips]
