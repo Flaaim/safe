@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wood Chipper Safety Tips
-description: Wood Chipper Safety Tips.If you're a person that has quite a bit of wooded area around your home and you like to spend a lot of time outside taking care of your land, then you probably would need to use a wood chipper
+description: 5 tips: Safety Gear Must Be Worn, Keep Hands Away From The Wood Hopper, Never Have Children Near the Chipper While in Operation, Be Aware of the Material You Put in the Chipper, Turn Off Power When Clogged
 author: Flaaim
 post_image: Wood-Chipper-In-Action.jpg
 categories: [Safety Tips]
