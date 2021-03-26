@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Safety Rules for Using a Wood Chisel
-description: Rules are: always wear a pair of safety glasses, cover the chisel with a protective cap, be sure it is correctly stored, correct clamping is necessary, make certain the handle is comfortable for use, the correct mallet will be needed, make certain the edge for cutting is sharp
+description: Rules are - always wear a pair of safety glasses, cover the chisel with a protective cap, be sure it is correctly stored, correct clamping is necessary, make certain the handle is comfortable for use, the correct mallet will be needed, make certain the edge for cutting is sharp
 author: Flaaim
 post_image: The-Best-Wood-Chisels-for-Woodworking-and-Carving.jpg
 categories: [Safety]
