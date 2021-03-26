@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personal protective equipment in beauty salon
-description: Personal protective equipment also known as PPE is very important for individuals working in a beauty salon
+description: The different kind of personal protective equipment includes: Respirators, Hand gloves, Protective clothing and footwear
 post_image: pexels_photo_332046.jpeg
 author: Flaaim
 categories: PPE
