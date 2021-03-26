@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PPE For Working With Acid
-description: PPE: Protective clothing and footwear, Eye and face protection equipment, Respiratory protection
+description: Protective clothing and footwear, Eye and face protection equipment, Respiratory protection
 post_image: louis-reed-JeInkKlI2Po-unsplash.jpg
 author: Flaaim
 categories: PPE
