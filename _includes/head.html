@@ -5,18 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="google-site-verification" content="FdLoe9HOCRMMxTdZlDZd_DpkDbwFzx8l5du6SJ046qY" />
 
-        <meta property="og:locale" content="en_US">
-        <meta property="og:type" content="article">
-        <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-        <meta property="article:publisher" content="https://www.facebook.com/safetyworkplaceblog" />
-        <meta property="article:author" content="https://www.facebook.com/flaaim" />
-        <meta property="article:published_time" content="{{ page.date }}" />
-        <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-        <meta property="og:site_name" content="SafetyWorkBlog">
-        <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-        <title>
-        {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
-        </title>
+        
+  <meta property="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+      
+  <title>
+  {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+  </title>
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link
