@@ -6,6 +6,9 @@ body {
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
 }
+@font-face {
+ font-family: $font-style; font-display: swap;
+}
 img {max-width:100%;height:auto;
 }
 
