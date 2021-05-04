@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Manual Pallet Jack Safety
-description: 
+description: All manual pallet jacks are hand-operated with a hydraulic spring to lift the pallet off the floor. It is a simple, easy-to-use item that reduces muscle strain from lifting and moving heavy objects around
 author: Flaaim
 post_image: hand-pallet_1_0.jpg
 categories: [Safety]
