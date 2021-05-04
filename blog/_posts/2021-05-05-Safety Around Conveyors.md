@@ -10,7 +10,7 @@ categories: [Safety Tips]
 A conveyor is a machine that transfers material from one area to another by use of stationary framework and rotating or vibrating belts, rollers, chains, etc. Conveyors may or may not be motorized and can be used overhead, underground or at working height. Transfer methods may include belts, buckets, or other material-specific carriers. Conveyors can be hazardous due to the nature of the moving parts and transferred material. Caution needs to be used when working with or around them.
 
 ## Things You Can Do to Improve Safety around Conveyors
-![Safety Around Conveyors](https://safetywordblog.com/assets/bigstock-Cardboard-boxes-on-conveyor-be-48887891.jpg)
+![Safety Around Conveyors](https://safetyworkblog.com/assets/bigstock-Cardboard-boxes-on-conveyor-be-48887891.jpg)
 
 - Verify machine guarding is in place and in good condition at all times.
 - If working around an overhead conveyor, check for basin-type guarding under the conveyor – Move away if none are in place and always wear a hard hat.
