@@ -39,3 +39,5 @@ Exposed moving parts with the potential to cause harm through entanglement, impa
 - NEVER carry passengers
 ### 3. POST-Operation:
 - Lower the load or tines, stop the vehicle and apply the park brake and turn off power.
+
+![Using a Forklift Safe Work Procedure](https://safetyworkblog.com/assets/template/using-a-forklift-safe-work-procedure.png)
