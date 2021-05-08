@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jigsaw Safety Tips
-description: 
+description: Here is an overview of the main safety tips for jigsaws
 author: Flaaim
 post_image: Jig_Saw_In-Use1.jpg
 categories: [Safety Tips]
