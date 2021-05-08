@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Jigsaw Safety Tips
-description: Here is an overview of the main safety tips for jigsaws
+title: Jigsaw Safety
+description: Jigsaws are universal tools, indispensable in any equipment of a good do-it-yourself hobbyist
 author: Flaaim
 post_image: Jig_Saw_In-Use1.jpg
-categories: [Safety Tips]
+categories: [Safety]
 ---
 
 The jigsaw allows you to work on numerous materials - in addition to wood also plasterboard, synthetic material and even metal. The jigsaw is particularly suitable for recesses and curves. Its use is not difficult.
