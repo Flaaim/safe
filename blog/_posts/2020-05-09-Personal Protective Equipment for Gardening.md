@@ -11,6 +11,8 @@ One wouldn’t think you need personal protective equipment for gardening, but y
 
 It’s one of those projects where before you know it, you’ve spent 3 to 4 hours outside and when you come in your shoulders and arms are burned from the sun, along with your head and nose. That doesn’t include the damage that you’ve done to your knees (i.e., calluses), hands and nails. If you want go to garden for anything other than snipping a few herbs for dinner, plan on wearing personal protective equipment.
 
+**Related:** [Gardening Health and Safety Tips](https://safetyworkblog.com/blog/ppe/2021/05/13/gardening-health-and-safety-tips)
+
 ![Personal Protective Equipment for Gardening](https://safetyworkblog.com/assets/spinach-and-garden-bean-seeds.jpg)
 ## Head
 
@@ -37,8 +39,8 @@ After gardening, treat yourself to some hand care. Wash your hands and arms thor
 
 ## Knees
 
-Wear long pants if possible to protect your knees from calluses. Also use a knee cushion or knee pads to protect your knees from Gardener’s Knee, a form of knee bursitis that can occur when working excessively on your knees. If you do injure the bursa sack that sits at the front of the knee, apply RICE therapy. Rest, Ice, Compression, and Elevation.  
-![Personal Protective Equipment for Gardening](https://safetyworkblog.com/assets/gardener-and-his-garden-job-P6VS86V+small-640w.webp)
+Wear long pants if possible to protect your knees from calluses. Also use a knee cushion or knee pads to protect your knees from Gardener’s Knee, a form of knee bursitis that can occur when working excessively on your knees. If you do injure the bursa sack that sits at the front of the knee, apply RICE therapy. Rest, Ice, Compression, and Elevation. 
+
 ## Feet
 
 Wearing the proper shoes and socks are absolutely essential when gardening. Considerations when selecting shoes and socks include the following: 
