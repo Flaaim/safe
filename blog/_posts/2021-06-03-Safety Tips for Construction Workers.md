@@ -21,7 +21,7 @@ Construction sites can also be hotbeds for violence and discrimination due to th
 ## 5 Important Safety Tips for construction workers:
 
 ### 1. Use proper safety harnesses and equipment
-
+![Safety Tips for Construction Workers](https://safetyworkblog.com/assets/5e4d2f892687fc45200e0984.webp)
 
 Construction worker fatalities are oftentimes caused by human error. When using power tools, it's essential to use safety harnesses and other equipment that will protect you from the power tool or vice versa. 
 
