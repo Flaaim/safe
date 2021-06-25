@@ -20,6 +20,7 @@ Therefore, as an employer, you have the responsibility to ensure that you all st
 
 ## Types of Personal Protective Clothing to wear in a cookery
 
+[Cookery health and safety tips](https://safetyworkblog.com/blog/safety%20tips/2021/06/24/cookery-health-and-safety-tips)
 
 Cookery has many types of protective equipment that can are specifically made for this purpose. In the list below, we evaluate a number of the basic ones:
 
