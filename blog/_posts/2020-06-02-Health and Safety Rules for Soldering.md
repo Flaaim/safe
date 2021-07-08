@@ -4,6 +4,7 @@ title: Health and Safety Rules for Soldering
 description: Soldering is a process that involves joining of two metals using electricity. The fusion of two metals usually involves a filler metal which has a lower melting point than the other melting.
 post_image: best-soldering-iron.jpg
 author: Flaaim
+year: 2020
 categories: [Safety]
 ---
 
