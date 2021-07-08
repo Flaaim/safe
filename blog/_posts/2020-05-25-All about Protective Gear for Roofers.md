@@ -4,6 +4,7 @@ title: All about Protective Gear for Roofers
 description: Personal protective equipment for roofers. Roofers are people who specialize in roofing services. They repair existing roofs and construct new ones.
 post_image: man-repairing-roof.jpg
 author: Flaaim
+year: 2020
 categories: [PPE]
 ---
 
