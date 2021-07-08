@@ -3,6 +3,7 @@ layout: post
 title: Safety Equipment for Angle Grinder
 description: Safety Equipment for Angle Grinder.As a lot of people knows, grinding is not a safe activity since a razor-sharp wheel that is cutting at 6500RPM is never going to be safe
 author: Flaaim
+year: 2020
 post_image: How-To-Use-An-Angle-Grinder01.jpg
 categories: [Safety Equipment]
 ---
