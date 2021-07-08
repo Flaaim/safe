@@ -3,6 +3,7 @@ layout: post
 title: Things to Remember for Laundry Workers Regarding PPE
 description: 
 author: Flaaim
+year: 2020
 post_image: 032320_healthcarelaundry.jpg
 ---
 
