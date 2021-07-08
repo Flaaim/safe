@@ -3,6 +3,7 @@ layout: post
 title: Personal Protective Equipment for Housekeeping Staff
 description: Personal protective equipment for housekeeping staff. Personal protective equipment (PPE) is any piece of equipment that is intended to be worn by an employee to protect against risks that may threaten safety or health at work
 author: Flaaim
+year: 2020
 post_image: Cleaning-Team.jpg
 categories: [PPE]
 ---
