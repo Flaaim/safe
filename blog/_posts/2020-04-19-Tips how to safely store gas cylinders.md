@@ -4,6 +4,7 @@ title: Tips how to safely store gas cylinders
 description: Gas cylinders are commonly used in many homes, medical and industrial areas. These equipment are very important especially in assisting you to make your meals and do other duties
 post_image: gas_cylenders_safety_storage.jpg
 author: Flaaim
+year: 2020
 categories: [Safety Tips]
 ---
 
