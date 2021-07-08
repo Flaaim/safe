@@ -4,6 +4,7 @@ title: Snow Removal Safety Tips
 description: Things You Should Do and Things You Should Avoid Doing
 author: Flaaim
 post_image: snow-3146420_1920.jpg
+year: 2021
 categories: [Safety Tips]
 ---
 
