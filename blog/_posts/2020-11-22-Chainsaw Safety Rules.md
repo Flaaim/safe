@@ -3,6 +3,7 @@ layout: post
 title: Chainsaw Safety Rules
 description: Chainsaw Safety Rules.There's no denying that a chainsaw if not operated safely can be one of the most high-risk tools a person can use. When combined with falling trees and branches thousands of people are injured or killed when using them each year.
 author: Flaaim
+year: 2020
 post_image: stihl-chainsaw-limbing-1-1200x630-c-ar1.91.jpg
 categories: [Safety Rules]
 ---
