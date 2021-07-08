@@ -3,6 +3,7 @@ layout: post
 title: Jigsaw Safety
 description: Jigsaws are universal tools, indispensable in any equipment of a good do-it-yourself hobbyist
 author: Flaaim
+year: 2021
 post_image: Jig_Saw_In-Use1.jpg
 categories: [Safety]
 ---
