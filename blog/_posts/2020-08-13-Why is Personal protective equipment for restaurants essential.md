@@ -3,6 +3,7 @@ layout: post
 title: Why is Personal protective equipment for restaurants essential?
 description: It is critical to note that providing your team with proper restaurant equipment and other supplier gears are essential in ensuring their safety and wellbeing while on the workplace. 
 author: Flaaim
+year: 2020
 post_image: Hairnet.jpg
 ---
 
