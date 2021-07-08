@@ -3,6 +3,7 @@ layout: post
 title: Personal Protective Equipment (PPE) for Concrete Cutting
 description: The following PPE’s are to be used 1. Respirators, 2. Safety Glasses, 3. Hard Hat 4. Safety Uniforms/High Visibility Clothing 5. Hearing Protectors 6. Protective footwear
 author: Flaaim
+year: 2021
 post_image: 365-floor-sawing.jpg
 categories: [PPE]
 ---
