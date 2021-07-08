@@ -3,6 +3,7 @@ layout: post
 title: Construction Housekeeping Checklist 
 description: A construction site can be a place full of dangers. Using a construction housekeeping checklist will help you reduce the risk of accidents in the workplace.
 author: Flaaim
+year: 2020
 post_image: 75792c22170ee99dbeeb430718bd44c9.jpg
 ---
 
