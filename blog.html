@@ -26,7 +26,12 @@ title: Blog
         <div class="column _50">
 
             <time>{{ post.date | date: "%b %-d, %Y" }}
-                <i class="fa fa-tags"></i></time><a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+                <i class="fa fa-tags">
+                     {% for category in categories %}
+                     <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+                     {% unless forloop.last %}&nbsp;{% endunless %}
+                     {% endfor %}
+                 </i></time><a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
         </div>
 
 
