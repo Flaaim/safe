@@ -3,6 +3,7 @@ layout: post
 title: Safety Precautions When Working with Flammable Materials
 description: Working with flammable materials can be dangerous. It is important that you exercise caution when working with flammable substances.
 author: Flaaim
+year: 2020
 post_image: image_flammable_sign.jpg
 categories: [Safety Precautions]
 ---
