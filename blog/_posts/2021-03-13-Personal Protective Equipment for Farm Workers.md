@@ -4,6 +4,7 @@ title: Personal Protective Equipment for Farm Workers
 description: Personal Protective Clothing, Full-brimmed Hat and Goggles, Dust Masks, Ear Plugs, Foot Protection.
 author: Flaaim
 post_image: agri.jpg
+year: 2021
 categories: [PPE]
 ---
 
