@@ -29,6 +29,19 @@ title: Blog
 
 
         {% endfor %}
+         
+         
+                  {% assign sorted-posts = site.categories.blog | where: "year","2021" %}
+         {% for post in sorted-posts %}
+        <div class="column _50">
+
+            <time>{{ post.date | date: "%b %-d, %Y" }}
+                <i class="fa fa-tags"></i></time><a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+        </div>
+
+
+
+        {% endfor %}
     </div>
     
 
