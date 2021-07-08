@@ -3,6 +3,7 @@ layout: post
 title: Personal Protective Equipment For Electrical Workers
 description: Personal Protective Equipment For Electrical Workers. As an electrician, it is your responsibility, and that of your employer's to ensure that you are having all of the protective equipment when at work. 
 author: Flaaim
+year: 2020
 post_image: understanding-the-2015-edition-of-nfpa-70e-the-arc-flash-hazard.jpg
 categories: [PPE]
 ---
