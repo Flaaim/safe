@@ -3,6 +3,7 @@ layout: post
 title: Essential Personal Protective Equipment for Plumber and Their Benefits
 description: Safety is a key issue for plumbing experts. Recently, most plumbing accidents happen due to lack of personal protective equipment for plumbers. 
 author: Flaaim
+year: 2020
 post_image: xbigstock-Plumber-Soldering-109530.jpg.pagespeed.ic_.Ym1yZPuRmF.jpg
 categories: [PPE]
 ---
