@@ -3,6 +3,7 @@ layout: post
 title: Personal Protective Equipment for Carpentry
 description: One should essentially put on a PPE-Personnel Protection Equipment when handling carpentry work at renovation or construction. A set of safety glasses and a hard hat is a must as a protection gear essential by the worker. 
 author: Flaaim
+year: 2020
 post_image: shutterstock_303640922.jpg
 categories: [PPE]
 ---
