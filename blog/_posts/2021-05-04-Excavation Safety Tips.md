@@ -3,6 +3,7 @@ layout: post
 title: Excavation Safety Tips
 description: According to the U.S. Occupational Safety and Health Administration, the fatality rate for excavation work is 112% higher than that of general industry
 author: Flaaim
+year: 2021
 post_image: osha-trenching-and-excavation-requirements.jpg
 categories: [Safety Tips]
 ---
