@@ -3,6 +3,7 @@ layout: post
 title: Personal Protective Equipment in Garment Industry
 description: Garment industry is a niche specializing in the manufacturing of items of clothing. The manufacturing sector in the garment industry is linked to the emission of toxic gases, such as sulphur dioxide and nitrous oxides.
 author: Flaaim
+year: 2020
 post_image: no-end-to-woes-of-local-textile-and-garment-industry.jpg
 ---
 
