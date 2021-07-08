@@ -4,6 +4,7 @@ title: Personal Protective Equipment in Hospitality
 description: Giving staff the right equipment and supplies is crucial for ensuring the safety and wellbeing of employees. 
 post_image: walter-otto-PT70CT6mATQ-unsplash.jpg
 author: Flaaim
+year: 2020
 categories: PPE
 ---
 
