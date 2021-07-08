@@ -3,6 +3,7 @@ layout: post
 title: Personal Protective Equipment For Arc Welding
 description: Personal Protective Equipment For Arc Welding. Here are a few personal protective equipment for arc welding.
 author: Flaaim
+year: 2020
 post_image: bigstock-Workers-Wearing-Industrial-Uni-254670859_fi3lk1.jpg
 categories: [PPE]
 ---
