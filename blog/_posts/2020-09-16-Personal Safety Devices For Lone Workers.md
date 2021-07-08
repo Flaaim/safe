@@ -3,6 +3,7 @@ layout: post
 title: Personal Safety Devices for Lone Workers
 description: Personal Safety Devices for Lone Workers
 author: Flaaim
+year: 2020
 post_image: Depositphotos_10199318_xl-2015.jpg
 categories: [Safety]
 ---
