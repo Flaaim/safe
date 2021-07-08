@@ -3,6 +3,7 @@ layout: post
 title: Personal Safety for Social Workers
 description: Personal Safety for Social Workers. Steps must be taken to guarantee the personal safety of social workers.
 author: Flaaim
+year: 2020
 post_image: care-giver-social-worker-visit-smaller-1200x650.jpg
 categories: [Safety]
 ---
