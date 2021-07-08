@@ -4,6 +4,7 @@ title: PPE For Waste Handlers
 description: PPE For Waste Handlers
 author: Flaaim
 post_image: wastle-handlesr-1200x798.jpg
+year: 2021
 categories: [PPE]
 ---
 
