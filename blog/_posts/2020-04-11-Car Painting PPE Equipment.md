@@ -4,6 +4,7 @@ title: Car Painting PPE Equipment
 description: Gloves, Eye-wear, Paint Masks, Coveralls and shoe covers, Fire Extinguisher
 post_image: auto_costpaintcar_0415_passwater.webp
 author: Flaaim
+year: 2020
 categories: PPE
 ---
 
