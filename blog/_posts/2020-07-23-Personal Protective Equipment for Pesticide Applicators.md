@@ -3,6 +3,7 @@ layout: post
 title: Personal Protective Equipment for Pesticide Applicators
 description: While pesticides can be useful in their field, they can pose hazards to the human body thanks to the chemical composition and formulation which will be the responsible of making possible the restriction of bugs or any insect that were planning to attack the plant or crop in question, but if you think for a second, what could happen to the humans who are exposed to these toxic chemicals
 author: Flaaim
+year: 2020
 post_image: agriculture-worker.jpg
 ---
 
