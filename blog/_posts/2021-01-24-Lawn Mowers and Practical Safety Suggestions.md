@@ -2,6 +2,7 @@
 layout: post
 title: Lawn Mowers and Practical Safety Suggestions
 description: Lawn mowers can keep your outdoor space neat and visually appealing all year long. Improper use of these devices, however, can lead to all sorts of consequences. Lawn mower accidents overall can lead to all kinds of physical injuries in users
+year: 2021
 post_image: ridding_mower_lawn.jpg
 categories: [Safety]
 ---
