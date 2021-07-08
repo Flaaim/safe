@@ -3,6 +3,7 @@ layout: post
 title: Healthcare Lone Worker Safety
 description: Healthcare Lone Worker Safety.Working alone is not unlawful, but an employer is required by the law to carry out a risk assessment audit in his or her organization before deploying a lone worker to the workstation
 author: Flaaim
+year: 2020
 post_image: 091218_home_healthcare_worker.jpg
 categories: [Safety]
 ---
