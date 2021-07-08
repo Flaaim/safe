@@ -3,6 +3,7 @@ layout: post
 title: Personal Protective Equipment for Warehouse Workers
 description: Personal Protective Equipment for Warehouse Workers.However, you can reduce the risk and impact of these accidents by using some of the PPE or Personal Protective Equipment that is recommended for warehouse workers
 author: Flaaim
+year: 2020
 post_image: millennial-warehouse-workers-full.jpg
 categories: [PPE]
 ---
