@@ -4,6 +4,7 @@ title: Personal protective equipment in beauty salon
 description: The different kind of personal protective equipment includes Respirators, Hand gloves, Protective clothing and footwear
 post_image: pexels_photo_332046.jpeg
 author: Flaaim
+year: 2020
 categories: PPE
 
 ---
