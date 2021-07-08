@@ -4,6 +4,7 @@ title: Personal Protective Equipment for Dog Grooming
 description: Personal Protective Equipment for Dog Grooming. Dog groomers not only have to provide wonderful and satisfactory results in which their skills will be showed to everyone
 post_image: iStock-1065436826.jpg
 author: Flaaim
+year: 2020
 categories: [PPE]
 ---
 
