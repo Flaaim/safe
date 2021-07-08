@@ -4,6 +4,7 @@ title: Personal Protective Equipment for Working with Pesticides
 description: Minimal PPE or Personal Protective Equipment, handling instruction and other safety measures are provided in the pesticide label to minimize your employees' or your exposure when handling pesticides.
 post_image: a-man-spraying-pesticides-into-a-field-of-crops-that-will-be-used-for-food.jpg
 author: Flaaim
+year: 2020
 categories: PPE
 ---
 
