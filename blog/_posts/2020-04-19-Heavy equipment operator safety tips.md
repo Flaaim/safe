@@ -4,6 +4,7 @@ title: Heavy equipment operator safety tips
 description: Despite workplace observing various safety standards, this ought to be a personal responsibility of the heavy machine operator. Below are some of the safety tips when using heavy equipment.
 post_image: slider9.jpg
 author: Flaaim
+year: 2020
 categories: [Safety Tips]
 ---
 
