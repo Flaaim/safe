@@ -4,6 +4,7 @@ title: Protective Measures to Look for When Searching for a Tattoo Shop
 description: Tattoo artists have many regulations put in place to avoid contact or the exchange of bodily fluids
 author: Flaaim
 post_image: iStock-669911398-2048x1368.jpg
+year: 2021
 categories: [PPE]
 ---
 
