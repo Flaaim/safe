@@ -15,23 +15,9 @@ title: Blog
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script><h2>2020</h2>
-    
-    <div class="blog">
-         {% assign sorted-posts = site.categories.blog | where: "year","2020" %}
-         {% for post in sorted-posts %}
-        <div class="column _50">
-
-            <time>{{ post.date | date: "%b %-d, %Y" }}
-                <i class="fa fa-tags"></i></time><a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
-        </div>
-
-
-
-        {% endfor %}
-         </div>
+</script>
      
-     <h2>2021</h2>
+    <h2>2021</h2>
     
     <div class="blog">
          
@@ -47,6 +33,26 @@ title: Blog
 
         {% endfor %}
     </div>
+     
+     
+     
+     <h2>2020</h2>
+    
+    <div class="blog">
+         {% assign sorted-posts = site.categories.blog | where: "year","2020" %}
+         {% for post in sorted-posts %}
+        <div class="column _50">
+
+            <time>{{ post.date | date: "%b %-d, %Y" }}
+                <i class="fa fa-tags"></i></time><a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+        </div>
+
+
+
+        {% endfor %}
+         </div>
+     
+
     
 
 
