@@ -4,6 +4,7 @@ title: Safety Tips for Construction Workers
 description: Construction workers are some of the most vulnerable to workplace injuries. Let's explore the statistics, and safety tips to keep in mind when starting a new job.
 post_image: 5e4d2f892687fc45200e0984.webp
 author: Flaaim
+year: 2021
 categories: [Safety Tips]
 ---
 
