@@ -3,6 +3,7 @@ layout: post
 title: PPE in Microbiology Laboratories — A Complete Safety List
 description: To enforce safety in a microbiology laboratory, every person working inside must have the proper Personal Protective Equipment (PPE). Doing so will protect anyone from workplace hazards like a laceration, thermal burn, infection, and other biohazardous dangers.
 author: Flaaim
+year: 2020
 post_image: laboratory-worker-microbiology-lab.jpg
 categories: [PPE]
 ---
