@@ -3,6 +3,7 @@ layout: post
 title: Personal protective equipment for lifeguards
 description: However, lifeguards cannot be able to save lives if they do not have personal protective equipment. In case a lifeguard decides to save a life when he or she is not equipped with appropriate protective equipment attires, the lifeguard will be risking, leading to loss of lives.
 author: Flaaim
+year: 2020
 post_image: Lifeguard.jpg
 ---
 
