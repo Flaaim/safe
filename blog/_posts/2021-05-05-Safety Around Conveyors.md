@@ -3,6 +3,7 @@ layout: post
 title: Safety Around Conveyors
 description: Things You Can Do to Improve Safety around Conveyors
 author: Flaaim
+year: 2021
 post_image: bigstock-Cardboard-boxes-on-conveyor-be-48887891.jpg
 categories: [Safety Tips]
 ---
