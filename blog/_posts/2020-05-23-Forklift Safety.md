@@ -4,6 +4,7 @@ title: Forklift Safety
 description: The forklift safety parts are meant to protect the truck driver, others in the work area, and the truck itself. The forklift's safety components and safety techniques are designed to protect in all directions.amaging an important part of the body such as the hands.
 post_image: ForkSafety-images-m67.jpg
 author: Flaaim
+year: 2020
 categories: [Safety Tips]
 ---
 
