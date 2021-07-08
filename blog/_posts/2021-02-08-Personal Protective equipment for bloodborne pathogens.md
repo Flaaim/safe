@@ -3,6 +3,7 @@ layout: post
 title: Personal Protective Equipment for Bloodborne Pathogens
 description: Personal Protective equipment for bloodborne pathogens.
 author: Flaaim
+year: 2021
 post_image: 73300924-33d1-4945-b9da-4a603158b5a4-apr18-safety-blood-640x360.jpg
 categories: [PPE]
 ---
