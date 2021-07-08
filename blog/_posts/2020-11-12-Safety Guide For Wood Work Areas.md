@@ -3,6 +3,7 @@ layout: post
 title: Safety Guide For Wood Work Areas
 description: Safety Guide For Wood Work Areas. As with all potentially hazardous work environments, adhering to a few principles and techniques will greatly lower the risk of personal injury to yourself and coworkers within the wood working area.
 author: Flaaim
+year: 2020
 post_image: acozyspaceforstudiofurniture_lead.jpg
 categories: [Safety]
 ---
