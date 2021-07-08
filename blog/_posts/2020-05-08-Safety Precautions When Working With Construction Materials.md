@@ -4,6 +4,7 @@ title: Safety Precautions When Working With Construction Materials
 description: Construction safety is crucial in worksites to prevent injury or even death. Every day most workers are exposed to a potentially dangerous environment. There are so many safety tips that every worker must be aware of.
 post_image: men-working-at-construction-site.jpg
 author: Flaaim
+year: 2020
 categories: [Safety Tips]
 ---
 
