@@ -4,6 +4,7 @@ title: Personal Protective Equipment for Gardening
 description: One wouldn’t think you need personal protective equipment for gardening, but you do in fact need it. Working with the earth is a relaxing and meditative thing to do but it can take its toll on your body.
 post_image: spinach-and-garden-bean-seeds.jpg
 author: Flaaim
+year: 2020
 categories: [PPE]
 ---
 
