@@ -3,6 +3,7 @@ layout: post
 title: Basic Workshop Safety Rules
 description: Basic workshop safety rules. Many accidents and injuries are avoidable and often happen because the basic rules havent been followed. Using safe working practices during day-to-day activities must become second nature.
 author: Flaaim
+year: 2020
 post_image: home-woodshop-1.jpg
 categories: [Safety Rules]
 ---
