@@ -3,6 +3,7 @@ layout: post
 title: Safety Rules for a Circular Saw
 description: Rules for a Circular Saw. Of all the many tools we keep in our workshops and construction sites, the circular saw is easily one of the most impressive
 author: Flaaim
+year: 2020
 post_image: How-Does-a-Circular-Saw-Work.jpg
 categories: [Safety Rules]
 ---
