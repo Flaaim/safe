@@ -4,6 +4,7 @@ title: Safety Tips for Warehouse Workers
 description: Warehouse safety covers the measures and recommendations to ensure the optimum condition of the components present in a warehouse, avoiding possible risks to the physical integrity of workers. Thus, with the ultimate goal of maximizing protection and reducing occupational hazards.
 post_image: rsz_medium-warehouse-worker.webp
 author: Flaaim
+year: 2021
 categories: [Safety Tips]
 ---
 
