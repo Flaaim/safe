@@ -4,6 +4,7 @@ title: Carpentry Workshop Health and Safety Tips
 description: Working with wood is an enjoyable and exciting task. However, you should never undermine the importance of carpentry safety rules.
 post_image: carprentry_1396608012_o.webp
 author: Flaaim
+year: 2021
 categories: [Safety Tips]
 ---
 
