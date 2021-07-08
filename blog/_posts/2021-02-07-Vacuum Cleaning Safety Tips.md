@@ -3,6 +3,7 @@ layout: post
 title: Vacuum Cleaning Safety Tips
 description: Vacuum Cleaning Safety Tips. Many people do not necessary place a lot of thought into safe vacuum usage when it comes to the average vacuum cleaning job
 author: Flaaim
+year: 2021
 post_image: Vacuum-cleaner-allergies_Main.jpg
 categories: [Safety Tips]
 ---
