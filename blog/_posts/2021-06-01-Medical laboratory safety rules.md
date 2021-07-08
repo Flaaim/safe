@@ -4,6 +4,7 @@ title: Medical laboratory safety rules
 description: The medical laboratory contains significant risks ranging from hazardous chemicals, medical waste and infected blood fluids or body parts to heavy-duty equipment
 post_image: med-laboratories-safety-rules.webp
 author: Flaaim
+year: 2021
 categories: [Safety Rules]
 ---
 
