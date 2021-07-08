@@ -4,6 +4,7 @@ title: Cookery Health And Safety Tips
 description: A kitchen is a place where most of us prepare foods in our homes. Knowing how to keep the place clean and applying all the necessary precautions can help you reduce those emergency visits to your doctor due to kitchen accidents
 post_image: heart-healthy-cooking-tips-928732898.webp
 author: Flaaim
+year: 2021
 categories: [Safety Tips]
 ---
 
