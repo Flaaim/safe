@@ -3,6 +3,7 @@ layout: post
 title: Fire safety in the laboratory
 description: Fire safety in the laboratory. Accidents involving fire is the most common type of accidents that happen in the laboratory.
 author: Flaaim
+year: 2021
 post_image: fire-safety-l.png
 categories: [Safety]
 ---
