@@ -4,6 +4,7 @@ title: Personal protective equipment in the dental practice
 description: Personal protective equipment should be worn to prevent and reduce the risk of disease transmission when performing dental procedures that may result in blood exposure.
 post_image: images2495-5c0e90f132ae4-1024x684.jpg
 author: Flaaim
+year: 2020
 categories: PPE
 ---
 
