@@ -3,6 +3,7 @@ layout: post
 title: Safety Measures When Using The Belt Sander
 description: Safety Measures When Using The Belt Sander. Belt sanders may cause a lot of bodily injuries. Wondering what a belt sander is
 author: Flaaim
+year: 2020
 post_image: belt-sander-featured-iamge.jpg
 categories: [PPE]
 ---
