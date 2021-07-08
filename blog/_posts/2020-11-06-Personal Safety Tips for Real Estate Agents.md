@@ -3,6 +3,7 @@ layout: post
 title: Personal Safety Tips for Real Estate Agents
 description: Real Estate agents meet with strangers all the time so their safety is always at risk. The reward is great when you make a sale.
 author: Flaaim
+year: 2020
 post_image: 1_djokjDKw2y61emIzkNWV6g.jpeg
 categories: [Safety]
 ---
