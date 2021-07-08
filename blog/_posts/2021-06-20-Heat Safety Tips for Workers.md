@@ -4,6 +4,7 @@ title: Heat Safety Tips for Workers
 description: Abnormally high temperatures during summers can be pretty hazardous to workers who were working in an outdoor environment
 post_image: rsz_1heat-stress-quality-stock-arts-adobe-stock.webp
 author: Flaaim
+year: 2021
 categories: [Safety Tips]
 ---
 
