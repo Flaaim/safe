@@ -3,6 +3,7 @@ layout: post
 title: Air Compressor Safety Rules to Safeguard People
 description: Air Compressor Safety Rules. Proper maintenance of air compressors holds a key role in ensuring safety in work areas.
 author: Flaaim
+year: 2020
 post_image: air-compressor-hero1006x630.jpg 
 categories: [Safety Rules]
 ---
