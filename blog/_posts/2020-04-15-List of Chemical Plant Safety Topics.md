@@ -4,6 +4,7 @@ title: List of Chemical Plant Safety Topics
 description: Working in a chemical plant is extremely dangerous if you do not follow the proper safety precautions. It is important to teach all employees how to do their jobs safely. There are hundreds of different chemical plant safety topics. 
 post_image: chemical-1.jpg
 author: Flaaim
+year: 2020
 categories: [Workplace Safety]
 ---
 
