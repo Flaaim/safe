@@ -4,6 +4,7 @@ title: Gardening Health and Safety Tips
 description: Accidents seem to happen in the garden and for gardening safety, the first thing you really need to do is to have a Tetanus vaccination
 post_image: Gardening-Safely.webp
 author: Flaaim
+year: 2021
 categories: [PPE]
 ---
 
