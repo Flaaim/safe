@@ -3,6 +3,7 @@ layout: post
 title: Workplace Health And Safety Tips For Young Workers
 description: Employers must always consider the employee’s welfare when setting up a work station. This wellbeing is primarily for young workers who are prone to work-related injuries and fatalities. According to a research done by the Association of Workers Compensation Boards of Canada in 2012, more than 50 workers aged between 15 and 24 die each year due to work-related injuries, and more than 32, 106 survive the injuries.
 author: Flaaim
+year: 2020
 post_image: Young-Workers-Lo-Res.jpg
 categories: [Safety]
 ---
