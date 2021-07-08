@@ -3,6 +3,7 @@ layout: post
 title: Personal Protective Equipment for Biohazard
 description: Personal Protective Equipment for Biohazard. Wearing personal protective equipment (PPE) will help to protect you from hazardous materials and organisms. This equipment includes protective clothing, goggles, and helmets.
 author: Flaaim
+year: 2020
 post_image: DRC-Header-restoration-biohazard.jpg
 categories: [PPE]
 ---
