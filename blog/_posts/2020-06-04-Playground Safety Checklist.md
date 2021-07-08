@@ -3,6 +3,7 @@ layout: post
 title: Playground Safety Checklist
 description: Children's playgrounds are a great thing to have and really appreciated by parents (not too many McDonalds restaurants don't have one!). But they are perhaps one of the most hazardous areas of your operation and sadly also one of the most neglected.
 post_image: Playground_Safety_Checklist.jpg
+year: 2020
 author: Flaaim
 categories: [Safety]
 ---
