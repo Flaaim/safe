@@ -3,6 +3,7 @@ layout: post
 title: Electric Kiln Safety
 description: Electric Kiln Safety. A pottery kiln is a great, safe tool to have at home as long as the electric kiln safety measures are adhered to.
 post_image: kilns.jpg
+year: 2021
 categories: [Safety]
 ---
 
