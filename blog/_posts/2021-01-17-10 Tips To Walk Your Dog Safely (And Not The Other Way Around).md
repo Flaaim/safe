@@ -3,6 +3,7 @@ layout: post
 title: 10 Tips To Walk Your Dog Safely
 description: 10 Tips To Walk Your Dog Safely. Walking your dog(s) can be a great activity, exercise, and stress release for both you and your dog.  
 post_image: 15-Dog-Walking-Dangers-and-Safety-Tips.jpg
+year: 2021
 categories: [Safety Tips]
 ---
 
