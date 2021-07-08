@@ -3,6 +3,7 @@ layout: post
 title: Personal Protective Equipment for Butchers
 description: Personal Protective Equipment for Butchers. Personal protective equipment (PPE) for butchers, in particular, is one of the most essential but little-known safety devices that any individual who works with blood must-have.
 author: Flaaim
+year: 2020
 post_image: safecutting-story.jpg
 categories: [PPE]
 ---
