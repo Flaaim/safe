@@ -3,6 +3,7 @@ layout: post
 title: Personal Protective Equipment for Mold Removal
 description: Personal Protective Equipment for Mold Removal. In mold removal, you will be experiencing some close contact with mold spores that will attach to your skin
 author: Flaaim
+year: 2020
 post_image: Mold-Removal-Remediation-Kahului-Maui-2.jpg
 categories: [PPE]
 ---
