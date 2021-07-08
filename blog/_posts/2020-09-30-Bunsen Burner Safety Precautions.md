@@ -3,6 +3,7 @@ layout: post
 title: Bunsen Burner Safety Precautions
 description: Bunsen Burners are very useful sources of heat and ignition that can be found in most laboratories
 author: Flaaim
+year: 2020
 post_image: d6a4bd0c61aa45998e2539c498f9d2c86a9cd508.jpg
 categories: [Safety Precautions]
 ---
