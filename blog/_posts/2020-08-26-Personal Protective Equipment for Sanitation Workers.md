@@ -3,6 +3,7 @@ layout: post
 title: Personal Protective Equipment for Sanitation Workers
 description: Personal Protective Equipment for Sanitation Workers
 author: Flaaim
+year: 2020
 post_image: delhi-lockdown-covid-19-day-9_f1adb63e-7532-11ea-b308-ad7e0b841a10.webp
 categories: [PPE]
 ---
