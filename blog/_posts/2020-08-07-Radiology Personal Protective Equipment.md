@@ -3,6 +3,7 @@ layout: post
 title: Radiology Personal Protective Equipment
 description: Radiologists are medics that are specialized in diagnosing and even treating injuries with the usage of multiple radiology procedures like X-rays, computerized tom0graphies, ultrasounds, and even handle some nuclear medicine.
 author: Flaaim
+year: 2020
 post_image: Radiology_Personal_Protective_Equipment.jpg
 ---
 
