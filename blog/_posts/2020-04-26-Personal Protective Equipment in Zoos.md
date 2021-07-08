@@ -4,6 +4,7 @@ title: Personal Protective Equipment in Zoos
 description: Personal protective equipment for working with animals (Zoos). When an animal is taken for a lab or when an animal veterinary enters the animal's zoos must have personal protective equipment (PPE).
 author: Flaaim
 post_image: 544efb87-93b1-4ae5-a396-8bd8f9c4e44f-large16x9_ZooStaffCareforBabyGorilla.jpg
+year: 2020
 categories: PPE
 ---
 
