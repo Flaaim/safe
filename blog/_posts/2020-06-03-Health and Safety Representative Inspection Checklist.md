@@ -4,6 +4,7 @@ title: Health and Safety Representative Inspection Checklist
 description: Due to popular demand, we return to an example of a section of a health and safety representative inspection checklist.
 post_image: 15142_large.png
 author: Flaaim
+year: 2020
 categories: [Safety]
 ---
 
