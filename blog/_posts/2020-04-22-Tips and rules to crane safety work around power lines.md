@@ -4,6 +4,7 @@ title: Tips and rules to crane safety work around power lines
 description: Working near power lines can is dangerous and can cause serious accidents that may lead to death. For this reason, safety must be taken into consideration when working near power lines with a crane.
 post_image: crane_safety_work_around_power_lines.jpg
 author: Flaaim
+year: 2020
 categories: [Workplace safety]
 --- 
 
