@@ -4,6 +4,7 @@ title: Personal Protective Equipment in Childcare
 description: A lot of people are now looking into personal protective equipment (PPE) in childcare as a way to help them. This is great, because it can save your child's life, but you should be careful and choose the right PPE for your child. Below are some of the items that you should look for in PPE for childcare.
 post_image: v3imagesbin87b847091b357c48b3c1113fc0107979-wovqlsydie7v6nljxs2.jpg
 author: Flaaim
+year: 2020
 categories: [PPE]
 ---
 
