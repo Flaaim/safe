@@ -4,6 +4,7 @@ title: Personal Protective Equipment For Working With Nail Gun
 description: Nail gun PPE are Protective Shoes, Helmet, Goggles, Gloves, Face Shield
 author: Flaaim
 post_image: Nail-Gun-7.jpg
+year: 2021
 categories: [PPE]
 ---
 
