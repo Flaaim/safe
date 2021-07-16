@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Safety Precautions When Working with Ethanol
+title: Safety Precautions of Ethanol
 description: Ethanol is a colorless, volatile, and especially a very inflammable liquid that has a slight odor that perdured for centuries since it was discovered as the result of an extreme fermentation of alcohol.
 author: Flaaim
 year: 2021
