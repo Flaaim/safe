@@ -30,6 +30,7 @@ Ethanol exists in diluted form in alcoholic drinks, but it can be very harmful w
 - Protect your eyes using chemical safety goggles if there are chances of eye exposure.
 
 ## Fire Control Measures
+
 In case of a fire, close the ethanol leak and extinguish the fire using water-mist extinguishers. They work well because ethanol dissolves in water. Isolate the electric supply before using water-mist extinguishers where electricity is involved.
 
 Shut down the source of ignition and cool off the ethanol containers exposed to fires in cold water.
