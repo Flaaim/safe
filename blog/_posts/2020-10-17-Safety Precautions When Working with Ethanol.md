@@ -18,16 +18,16 @@ Ethanol is a volatile, colorless, and flammable liquid with a characteristic odo
 
 If ethanol is in contact with skin, wash the contaminated area with soap or a mild detergent and water. Ensure you remove the clothes in contact with ethanol and clean them thoroughly to avoid further contact.
 
- If in contact with eyes, wash the eyes with plenty of running water for about five to fifteen minutes. You should seek medical attention if irritation persists. 
+If in contact with eyes, wash the eyes with plenty of running water for about five to fifteen minutes. You should seek medical attention if irritation persists. 
  
- Ethanol exists in diluted form in alcoholic drinks, but it can be very harmful when ingested in an undiluted state. Wash out the mouth with water and ensure the victim drinks lots of it. Also, seek immediate medical attention.
+Ethanol exists in diluted form in alcoholic drinks, but it can be very harmful when ingested in an undiluted state. Wash out the mouth with water and ensure the victim drinks lots of it. Also, seek immediate medical attention.
  
  ## Personal Protection
  
-•	Ethanol should be stored in a well-ventilated space.
-•	Wear respiratory masks if you're working in places with high ethanol exposure levels. For example, if working with pure ethanol for more than eight hours.
-•	Wear butyl rubber protective gloves when working with ethanol.
-•	Protect your eyes using chemical safety goggles if there are chances of eye exposure.
+- Ethanol should be stored in a well-ventilated space.
+- Wear respiratory masks if you're working in places with high ethanol exposure levels. For example, if working with pure ethanol for more than eight hours.
+- Wear butyl rubber protective gloves when working with ethanol.
+- Protect your eyes using chemical safety goggles if there are chances of eye exposure.
 
 ## Fire Control Measures
 In case of a fire, close the ethanol leak and extinguish the fire using water-mist extinguishers. They work well because ethanol dissolves in water. Isolate the electric supply before using water-mist extinguishers where electricity is involved.
@@ -46,11 +46,11 @@ Read the instructions manual carefully before installing or using an ethanol fir
 ### Spillage Control 
 
 
-•	In case of ethanol spillage, make sure you eliminate any potential sources of ignition.
-•	Keep the place well-ventilated and seal the leak if possible.
-•	Do not let the ethanol flow into confined spaces as it can cause an explosion.
-•	If in small quantities, absorb the ethanol in paper towels and evaporate in a safe place.
-•	If spills are in large amounts, then contact spillage management personnel
+- In case of ethanol spillage, make sure you eliminate any potential sources of ignition.
+- Keep the place well-ventilated and seal the leak if possible.
+- Do not let the ethanol flow into confined spaces as it can cause an explosion.
+- If in small quantities, absorb the ethanol in paper towels and evaporate in a safe place.
+- If spills are in large amounts, then contact spillage management personnel
 
 
 ### Conclusion
