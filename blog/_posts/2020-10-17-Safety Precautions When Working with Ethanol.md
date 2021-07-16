@@ -57,12 +57,13 @@ Read the instructions manual carefully before installing or using an ethanol fir
 
 Ethanol is an ingredient in many household items, including beauty products, fuel, and alcoholic drinks. While ethanol is very useful, it can be hazardous mainly due to high flammability in its pure state. Therefore, this article gives the precautions to take when handling ethanol to avoid any harm.
 
+## Safety precautions to consider when working with ethanol:
 
 Ethanol is a colorless, volatile, and especially a very inflammable liquid that has a slight odor that perdured for centuries since it was discovered as the result of an extreme fermentation of alcohol. Since Ethanol forms part of multiple important things that humankind requires for its survival, it shouldn't be strange to see that millions of people manipulate it every single day for industrial purposes such as biofuel, gasoline, medicines, and even some basic things like housecleaning products.
 
 However, there is a big problem with that statement, due to its volatile nature, Ethanol is pretty dangerous to the human body, capable of causing health diseases that can provide a very annoying situation and even death if security measures are not followed, for that reason, let{s discover these security rules that everyone should follow when they get to manipulate some of it in the future, stay tuned.
 
-## Safety precautions to consider when working with ethanol:
+
 ![Safety Precautions When Working with Ethanol](https://safetyworkblog.com/assets/ethanol.jpg)
 
 The best security rules that exist in situations like these is the usage of security equipment that will provide special protection in determining parts of the body depending on what conditions you will be working with the dangerous agent or chemical and also which one will be manipulated, for example, in the case of Ethanol almost every part of the body should be protected, but if you work with other chemicals maybe you just need to protect a particular zone like your hands or face, with that being said, these are the tools and equipment that you should use when working with Ethanol.
