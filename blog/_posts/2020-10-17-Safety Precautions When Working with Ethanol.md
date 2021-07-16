@@ -3,10 +3,60 @@ layout: post
 title: Safety Precautions When Working with Ethanol
 description: Safety Precautions When Working with Ethanol. Ethanol is a colorless, volatile, and especially a very inflammable liquid that has a slight odor that perdured for centuries since it was discovered as the result of an extreme fermentation of alcohol.
 author: Flaaim
-year: 2020
+year: 2021
 post_image: ethanol.jpg
 categories: [Safety]
 ---
+
+Ethanol is a volatile, colorless, and flammable liquid with a characteristic odor. It is a product of the fermentation of sugars in yeast and is the primary ingredient in most alcoholic drinks. Ethanol is a substrate of the water molecule, making it versatile in mixing with water and other liquids. But why is it dangerous? Its flammability makes ethanol hazardous because it can quickly start fires. Inhalation can also cause irritation and coughing. So, what are the precautions taken when handling ethanol?
+
+
+## Safety Precautions of Ethanol
+
+### First Aid Measures
+
+
+If ethanol is in contact with skin, wash the contaminated area with soap or a mild detergent and water. Ensure you remove the clothes in contact with ethanol and clean them thoroughly to avoid further contact.
+
+ If in contact with eyes, wash the eyes with plenty of running water for about five to fifteen minutes. You should seek medical attention if irritation persists. 
+ 
+ Ethanol exists in diluted form in alcoholic drinks, but it can be very harmful when ingested in an undiluted state. Wash out the mouth with water and ensure the victim drinks lots of it. Also, seek immediate medical attention.
+ 
+ ## Personal Protection
+ 
+•	Ethanol should be stored in a well-ventilated space.
+•	Wear respiratory masks if you're working in places with high ethanol exposure levels. For example, if working with pure ethanol for more than eight hours.
+•	Wear butyl rubber protective gloves when working with ethanol.
+•	Protect your eyes using chemical safety goggles if there are chances of eye exposure.
+
+## Fire Control Measures
+In case of a fire, close the ethanol leak and extinguish the fire using water-mist extinguishers. They work well because ethanol dissolves in water. Isolate the electric supply before using water-mist extinguishers where electricity is involved.
+
+Shut down the source of ignition and cool off the ethanol containers exposed to fires in cold water.
+
+Read the instructions manual carefully before installing or using an ethanol fireplace.
+
+## Storage and Transit
+
+1.	Ethanol in containers may form ethanol-air vapors that are highly explosive. Therefore, keep these containers away from open flames or high temperatures. Also, empty the partially full containers to avoid the formation of flammable ethanol vapors.
+2.	Ground or bond the containers containing ethanol to release static electric charges that may cause sparks.
+3.	Store ethanol containers in a well-ventilated space and label them well to avoid mishandling
+4.	Avoid any potential sources of ignition on containers such as welding, cutting, or pressurizing.
+
+### Spillage Control 
+
+
+•	In case of ethanol spillage, make sure you eliminate any potential sources of ignition.
+•	Keep the place well-ventilated and seal the leak if possible.
+•	Do not let the ethanol flow into confined spaces as it can cause an explosion.
+•	If in small quantities, absorb the ethanol in paper towels and evaporate in a safe place.
+•	If spills are in large amounts, then contact spillage management personnel
+
+
+### Conclusion
+
+Ethanol is an ingredient in many household items, including beauty products, fuel, and alcoholic drinks. While ethanol is very useful, it can be hazardous mainly due to high flammability in its pure state. Therefore, this article gives the precautions to take when handling ethanol to avoid any harm.
+
 
 Ethanol is a colorless, volatile, and especially a very inflammable liquid that has a slight odor that perdured for centuries since it was discovered as the result of an extreme fermentation of alcohol. Since Ethanol forms part of multiple important things that humankind requires for its survival, it shouldn't be strange to see that millions of people manipulate it every single day for industrial purposes such as biofuel, gasoline, medicines, and even some basic things like housecleaning products.
 
