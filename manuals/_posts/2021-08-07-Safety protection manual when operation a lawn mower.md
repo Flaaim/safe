@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Safety protection manual when operation a lawn mower
-description: 
+description: This manual provides the basic requirements for labor protection when operating a lawn mower
 post_image: 
 author: Flaaim
 categories: [Lawn mower]
