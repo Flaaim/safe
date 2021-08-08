@@ -4,7 +4,7 @@ title: Safety protection manual for manual snow removal
 description: This Instruction provides basic labor protection requirements for manual snow removal.
 post_image: 
 author: Flaaim
-categories: [snow remova]
+categories: [snow removal]
 ---
 ## General requirements
 
