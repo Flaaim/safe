@@ -2,7 +2,7 @@
 layout: post
 title: 5 Must-Have Personal Protective Equipment for Horse Riding
 description: One of the most enjoyable yet dangerous sport if not careful is horseback riding. Safe riding means avoiding injuries and remaining comfortable for maximum fun. Personal protective equipment when working with horses doesn’t guarantee ultimate safety, but they are essential in helping minimize injury severity
-post_image: 
+post_image: horse-riding-safety-equipment-min-810x436.webp
 author: Flaaim
 year: 2021
 categories: [PPE]
