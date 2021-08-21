@@ -30,3 +30,5 @@ Be observant of your surroundings, watch for moving machinery and workers while 
 - Cell phones may only be used in conjunction with hands free devices.  In order to call someone when driving, you must have your cell phone set up for “One touch dialing” (speed dial), otherwise, it is illegal to dial while driving.
 - Be sure that any prescription drugs you may be taking are not going to influence your driving abilities.
 - Never drink or do drugs on the job-site or prior to working on the job-site. 
+
+[Download template](https://safetyworkblog.com/assets/template/DefensiveDrivingWhentobeCautious.docx)
