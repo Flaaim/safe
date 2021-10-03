@@ -21,7 +21,8 @@ When changing your industrial battery, always ensure that the cover is left open
 ## Turn off the charger before disconnecting the battery
 
 Often cases of fire risk caused by electricity are due to ignorance to turn off main switches. Live electricity can spark and lead to an explosion. It’s always advisable to ensure that you switch off the charger before you can disconnect your battery. For industrial battery users, it’s mandatory to always stick to these safety tips. Being careful when handling the industrial battery will always play a significant role in enhancing its performance.
-Always charge the battery to compete for cycle
+
+## Always charge the battery to compete for cycle
 
 Charging your battery full will make it last longer. Alternatively, to be on the safe side, an industrial battery should always not be undercharged below 80%. Charging your battery entirely is vital to maintain a long life. During the charging process, always avoid disconnecting your battery to prevent damage or underlying issues such as blowing fuses in your battery. If you need to top up your battery, always do it when your battery is fully charged—topping up your battery before full charge may cause spills, leading to electrocution.
 
