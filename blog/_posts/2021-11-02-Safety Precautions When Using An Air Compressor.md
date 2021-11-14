@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Safety Precautions When Using An Air Compressor
-description: 
+description: Safety precautions when using an air compressor include the following
 author: Flaaim
 year: 2021
 post_image: air-compressor-hero1006x630.jpg 
