@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Safe Use of Chain Sling
-description: 
+description: In this blog post, we will share some tips for the safe use of chain sling so you can get your job done safely and efficiently.
 author: Flaaim
 year: 2021
 post_image: safe-use-of-chin-sling.jpg
