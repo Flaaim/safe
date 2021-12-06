@@ -4,7 +4,7 @@ title: How To Use a Portable Grinder Safely
 description: Having a portable grinder is a great tool to have when you need to polish, grind, or cut material. In fact, having this multipurpose tool allows you to accomplish many jobs when you have the correct wheels to use for a specific task.
 author: Flaaim
 year: 2021
-post_image: agro-chemical-industry.jpg
+post_image: Featured-4.jpg
 categories: [Safety]
 ---
 
